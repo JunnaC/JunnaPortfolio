@@ -1,0 +1,2556 @@
+﻿city,date,actual_mean_temp,record_min_temp,record_max_temp
+"Charlotte, North Carolina",7/1/2014,81,56,104
+"Charlotte, North Carolina",7/2/2014,85,56,101
+"Charlotte, North Carolina",7/3/2014,82,56,99
+"Charlotte, North Carolina",7/4/2014,75,55,99
+"Charlotte, North Carolina",7/5/2014,72,57,100
+"Charlotte, North Carolina",7/6/2014,74,57,99
+"Charlotte, North Carolina",7/7/2014,79,55,100
+"Charlotte, North Carolina",7/8/2014,83,58,101
+"Charlotte, North Carolina",7/9/2014,80,57,101
+"Charlotte, North Carolina",7/10/2014,78,53,101
+"Charlotte, North Carolina",7/11/2014,78,55,100
+"Charlotte, North Carolina",7/12/2014,79,59,102
+"Charlotte, North Carolina",7/13/2014,81,56,100
+"Charlotte, North Carolina",7/14/2014,85,59,102
+"Charlotte, North Carolina",7/15/2014,81,58,100
+"Charlotte, North Carolina",7/16/2014,76,58,100
+"Charlotte, North Carolina",7/17/2014,74,62,100
+"Charlotte, North Carolina",7/18/2014,77,62,102
+"Charlotte, North Carolina",7/19/2014,70,60,103
+"Charlotte, North Carolina",7/20/2014,74,60,101
+"Charlotte, North Carolina",7/21/2014,74,57,103
+"Charlotte, North Carolina",7/22/2014,79,58,103
+"Charlotte, North Carolina",7/23/2014,80,56,101
+"Charlotte, North Carolina",7/24/2014,80,59,100
+"Charlotte, North Carolina",7/25/2014,77,62,101
+"Charlotte, North Carolina",7/26/2014,78,60,100
+"Charlotte, North Carolina",7/27/2014,80,57,103
+"Charlotte, North Carolina",7/28/2014,79,54,102
+"Charlotte, North Carolina",7/29/2014,73,59,103
+"Charlotte, North Carolina",7/30/2014,74,58,101
+"Charlotte, North Carolina",7/31/2014,72,56,100
+"Charlotte, North Carolina",8/1/2014,68,58,98
+"Charlotte, North Carolina",8/2/2014,69,59,98
+"Charlotte, North Carolina",8/3/2014,77,60,98
+"Charlotte, North Carolina",8/4/2014,78,58,98
+"Charlotte, North Carolina",8/5/2014,77,55,100
+"Charlotte, North Carolina",8/6/2014,78,57,102
+"Charlotte, North Carolina",8/7/2014,78,50,100
+"Charlotte, North Carolina",8/8/2014,77,55,102
+"Charlotte, North Carolina",8/9/2014,76,56,104
+"Charlotte, North Carolina",8/10/2014,70,56,104
+"Charlotte, North Carolina",8/11/2014,78,58,98
+"Charlotte, North Carolina",8/12/2014,81,57,100
+"Charlotte, North Carolina",8/13/2014,75,57,102
+"Charlotte, North Carolina",8/14/2014,71,57,98
+"Charlotte, North Carolina",8/15/2014,73,55,99
+"Charlotte, North Carolina",8/16/2014,77,57,102
+"Charlotte, North Carolina",8/17/2014,78,55,97
+"Charlotte, North Carolina",8/18/2014,81,59,101
+"Charlotte, North Carolina",8/19/2014,80,59,100
+"Charlotte, North Carolina",8/20/2014,79,56,103
+"Charlotte, North Carolina",8/21/2014,80,56,103
+"Charlotte, North Carolina",8/22/2014,83,57,101
+"Charlotte, North Carolina",8/23/2014,82,53,103
+"Charlotte, North Carolina",8/24/2014,74,55,97
+"Charlotte, North Carolina",8/25/2014,72,56,98
+"Charlotte, North Carolina",8/26/2014,72,55,100
+"Charlotte, North Carolina",8/27/2014,72,55,101
+"Charlotte, North Carolina",8/28/2014,77,55,98
+"Charlotte, North Carolina",8/29/2014,79,54,100
+"Charlotte, North Carolina",8/30/2014,79,53,101
+"Charlotte, North Carolina",8/31/2014,83,53,99
+"Charlotte, North Carolina",9/1/2014,82,51,99
+"Charlotte, North Carolina",9/2/2014,82,53,99
+"Charlotte, North Carolina",9/3/2014,81,52,98
+"Charlotte, North Carolina",9/4/2014,77,54,100
+"Charlotte, North Carolina",9/5/2014,79,54,101
+"Charlotte, North Carolina",9/6/2014,80,53,104
+"Charlotte, North Carolina",9/7/2014,79,53,100
+"Charlotte, North Carolina",9/8/2014,70,54,99
+"Charlotte, North Carolina",9/9/2014,72,46,101
+"Charlotte, North Carolina",9/10/2014,72,47,98
+"Charlotte, North Carolina",9/11/2014,77,49,96
+"Charlotte, North Carolina",9/12/2014,81,45,95
+"Charlotte, North Carolina",9/13/2014,76,49,94
+"Charlotte, North Carolina",9/14/2014,66,47,97
+"Charlotte, North Carolina",9/15/2014,76,47,96
+"Charlotte, North Carolina",9/16/2014,76,47,96
+"Charlotte, North Carolina",9/17/2014,69,46,96
+"Charlotte, North Carolina",9/18/2014,71,48,99
+"Charlotte, North Carolina",9/19/2014,73,46,97
+"Charlotte, North Carolina",9/20/2014,71,45,98
+"Charlotte, North Carolina",9/21/2014,71,43,97
+"Charlotte, North Carolina",9/22/2014,69,43,98
+"Charlotte, North Carolina",9/23/2014,59,39,97
+"Charlotte, North Carolina",9/24/2014,59,43,95
+"Charlotte, North Carolina",9/25/2014,66,40,94
+"Charlotte, North Carolina",9/26/2014,67,42,94
+"Charlotte, North Carolina",9/27/2014,69,43,93
+"Charlotte, North Carolina",9/28/2014,68,41,93
+"Charlotte, North Carolina",9/29/2014,67,40,93
+"Charlotte, North Carolina",9/30/2014,71,38,91
+"Charlotte, North Carolina",10/1/2014,70,39,92
+"Charlotte, North Carolina",10/2/2014,72,36,92
+"Charlotte, North Carolina",10/3/2014,70,36,91
+"Charlotte, North Carolina",10/4/2014,55,33,95
+"Charlotte, North Carolina",10/5/2014,52,38,97
+"Charlotte, North Carolina",10/6/2014,62,38,98
+"Charlotte, North Carolina",10/7/2014,67,34,91
+"Charlotte, North Carolina",10/8/2014,72,34,93
+"Charlotte, North Carolina",10/9/2014,66,31,92
+"Charlotte, North Carolina",10/10/2014,72,30,89
+"Charlotte, North Carolina",10/11/2014,78,29,90
+"Charlotte, North Carolina",10/12/2014,63,31,87
+"Charlotte, North Carolina",10/13/2014,66,35,91
+"Charlotte, North Carolina",10/14/2014,73,32,87
+"Charlotte, North Carolina",10/15/2014,66,30,88
+"Charlotte, North Carolina",10/16/2014,61,35,87
+"Charlotte, North Carolina",10/17/2014,59,35,85
+"Charlotte, North Carolina",10/18/2014,65,31,87
+"Charlotte, North Carolina",10/19/2014,57,30,87
+"Charlotte, North Carolina",10/20/2014,59,30,86
+"Charlotte, North Carolina",10/21/2014,61,30,88
+"Charlotte, North Carolina",10/22/2014,56,29,85
+"Charlotte, North Carolina",10/23/2014,55,31,88
+"Charlotte, North Carolina",10/24/2014,54,28,88
+"Charlotte, North Carolina",10/25/2014,57,27,84
+"Charlotte, North Carolina",10/26/2014,66,27,86
+"Charlotte, North Carolina",10/27/2014,62,24,86
+"Charlotte, North Carolina",10/28/2014,68,26,87
+"Charlotte, North Carolina",10/29/2014,69,27,82
+"Charlotte, North Carolina",10/30/2014,57,26,84
+"Charlotte, North Carolina",10/31/2014,50,29,85
+"Charlotte, North Carolina",11/1/2014,47,29,84
+"Charlotte, North Carolina",11/2/2014,44,27,85
+"Charlotte, North Carolina",11/3/2014,45,24,84
+"Charlotte, North Carolina",11/4/2014,53,22,83
+"Charlotte, North Carolina",11/5/2014,60,24,81
+"Charlotte, North Carolina",11/6/2014,60,26,82
+"Charlotte, North Carolina",11/7/2014,50,26,78
+"Charlotte, North Carolina",11/8/2014,45,25,78
+"Charlotte, North Carolina",11/9/2014,51,24,82
+"Charlotte, North Carolina",11/10/2014,51,28,83
+"Charlotte, North Carolina",11/11/2014,57,24,78
+"Charlotte, North Carolina",11/12/2014,59,24,81
+"Charlotte, North Carolina",11/13/2014,53,21,81
+"Charlotte, North Carolina",11/14/2014,37,21,80
+"Charlotte, North Carolina",11/15/2014,35,20,82
+"Charlotte, North Carolina",11/16/2014,41,22,82
+"Charlotte, North Carolina",11/17/2014,47,20,84
+"Charlotte, North Carolina",11/18/2014,30,20,78
+"Charlotte, North Carolina",11/19/2014,29,14,78
+"Charlotte, North Carolina",11/20/2014,47,18,79
+"Charlotte, North Carolina",11/21/2014,44,19,78
+"Charlotte, North Carolina",11/22/2014,39,13,76
+"Charlotte, North Carolina",11/23/2014,54,18,78
+"Charlotte, North Carolina",11/24/2014,67,16,75
+"Charlotte, North Carolina",11/25/2014,58,13,76
+"Charlotte, North Carolina",11/26/2014,46,11,75
+"Charlotte, North Carolina",11/27/2014,43,18,77
+"Charlotte, North Carolina",11/28/2014,36,19,77
+"Charlotte, North Carolina",11/29/2014,44,20,76
+"Charlotte, North Carolina",11/30/2014,54,15,76
+"Charlotte, North Carolina",12/1/2014,57,15,76
+"Charlotte, North Carolina",12/2/2014,49,20,76
+"Charlotte, North Carolina",12/3/2014,53,20,75
+"Charlotte, North Carolina",12/4/2014,56,18,76
+"Charlotte, North Carolina",12/5/2014,47,18,75
+"Charlotte, North Carolina",12/6/2014,47,18,78
+"Charlotte, North Carolina",12/7/2014,48,12,76
+"Charlotte, North Carolina",12/8/2014,40,10,76
+"Charlotte, North Carolina",12/9/2014,46,14,78
+"Charlotte, North Carolina",12/10/2014,43,13,80
+"Charlotte, North Carolina",12/11/2014,37,13,79
+"Charlotte, North Carolina",12/12/2014,41,7,79
+"Charlotte, North Carolina",12/13/2014,46,2,77
+"Charlotte, North Carolina",12/14/2014,46,12,73
+"Charlotte, North Carolina",12/15/2014,43,10,73
+"Charlotte, North Carolina",12/16/2014,48,12,75
+"Charlotte, North Carolina",12/17/2014,46,14,73
+"Charlotte, North Carolina",12/18/2014,43,11,75
+"Charlotte, North Carolina",12/19/2014,43,11,76
+"Charlotte, North Carolina",12/20/2014,44,12,79
+"Charlotte, North Carolina",12/21/2014,47,10,73
+"Charlotte, North Carolina",12/22/2014,42,11,72
+"Charlotte, North Carolina",12/23/2014,42,8,73
+"Charlotte, North Carolina",12/24/2014,53,6,71
+"Charlotte, North Carolina",12/25/2014,45,4,77
+"Charlotte, North Carolina",12/26/2014,43,6,76
+"Charlotte, North Carolina",12/27/2014,48,15,72
+"Charlotte, North Carolina",12/28/2014,55,10,77
+"Charlotte, North Carolina",12/29/2014,51,2,74
+"Charlotte, North Carolina",12/30/2014,39,-5,76
+"Charlotte, North Carolina",12/31/2014,37,0,70
+"Charlotte, North Carolina",1/1/2015,40,10,74
+"Charlotte, North Carolina",1/2/2015,47,6,78
+"Charlotte, North Carolina",1/3/2015,50,8,74
+"Charlotte, North Carolina",1/4/2015,56,8,75
+"Charlotte, North Carolina",1/5/2015,45,10,72
+"Charlotte, North Carolina",1/6/2015,41,5,73
+"Charlotte, North Carolina",1/7/2015,29,6,77
+"Charlotte, North Carolina",1/8/2015,18,8,74
+"Charlotte, North Carolina",1/9/2015,34,4,72
+"Charlotte, North Carolina",1/10/2015,30,4,76
+"Charlotte, North Carolina",1/11/2015,31,0,78
+"Charlotte, North Carolina",1/12/2015,41,-1,75
+"Charlotte, North Carolina",1/13/2015,41,3,75
+"Charlotte, North Carolina",1/14/2015,35,7,77
+"Charlotte, North Carolina",1/15/2015,34,12,77
+"Charlotte, North Carolina",1/16/2015,43,5,74
+"Charlotte, North Carolina",1/17/2015,41,5,75
+"Charlotte, North Carolina",1/18/2015,49,10,71
+"Charlotte, North Carolina",1/19/2015,49,6,69
+"Charlotte, North Carolina",1/20/2015,53,-2,71
+"Charlotte, North Carolina",1/21/2015,50,-5,73
+"Charlotte, North Carolina",1/22/2015,41,5,74
+"Charlotte, North Carolina",1/23/2015,41,9,75
+"Charlotte, North Carolina",1/24/2015,43,7,74
+"Charlotte, North Carolina",1/25/2015,43,11,76
+"Charlotte, North Carolina",1/26/2015,45,8,75
+"Charlotte, North Carolina",1/27/2015,39,6,75
+"Charlotte, North Carolina",1/28/2015,36,5,79
+"Charlotte, North Carolina",1/29/2015,38,8,79
+"Charlotte, North Carolina",1/30/2015,38,4,78
+"Charlotte, North Carolina",1/31/2015,35,4,77
+"Charlotte, North Carolina",2/1/2015,47,10,76
+"Charlotte, North Carolina",2/2/2015,42,10,80
+"Charlotte, North Carolina",2/3/2015,34,8,81
+"Charlotte, North Carolina",2/4/2015,41,11,76
+"Charlotte, North Carolina",2/5/2015,40,6,78
+"Charlotte, North Carolina",2/6/2015,32,13,79
+"Charlotte, North Carolina",2/7/2015,47,10,74
+"Charlotte, North Carolina",2/8/2015,59,1,74
+"Charlotte, North Carolina",2/9/2015,56,6,77
+"Charlotte, North Carolina",2/10/2015,45,8,76
+"Charlotte, North Carolina",2/11/2015,42,12,75
+"Charlotte, North Carolina",2/12/2015,42,11,73
+"Charlotte, North Carolina",2/13/2015,31,2,74
+"Charlotte, North Carolina",2/14/2015,40,-5,77
+"Charlotte, North Carolina",2/15/2015,25,12,80
+"Charlotte, North Carolina",2/16/2015,29,11,76
+"Charlotte, North Carolina",2/17/2015,29,7,79
+"Charlotte, North Carolina",2/18/2015,32,5,78
+"Charlotte, North Carolina",2/19/2015,19,8,76
+"Charlotte, North Carolina",2/20/2015,19,7,77
+"Charlotte, North Carolina",2/21/2015,34,6,75
+"Charlotte, North Carolina",2/22/2015,47,12,74
+"Charlotte, North Carolina",2/23/2015,44,19,76
+"Charlotte, North Carolina",2/24/2015,32,16,80
+"Charlotte, North Carolina",2/25/2015,36,7,82
+"Charlotte, North Carolina",2/26/2015,37,7,81
+"Charlotte, North Carolina",2/27/2015,38,7,82
+"Charlotte, North Carolina",2/28/2015,37,14,78
+"Charlotte, North Carolina",3/1/2015,36,15,82
+"Charlotte, North Carolina",3/2/2015,55,14,80
+"Charlotte, North Carolina",3/3/2015,46,4,84
+"Charlotte, North Carolina",3/4/2015,56,15,82
+"Charlotte, North Carolina",3/5/2015,52,12,84
+"Charlotte, North Carolina",3/6/2015,35,10,78
+"Charlotte, North Carolina",3/7/2015,42,14,85
+"Charlotte, North Carolina",3/8/2015,52,16,84
+"Charlotte, North Carolina",3/9/2015,58,16,83
+"Charlotte, North Carolina",3/10/2015,66,17,82
+"Charlotte, North Carolina",3/11/2015,71,22,83
+"Charlotte, North Carolina",3/12/2015,61,19,86
+"Charlotte, North Carolina",3/13/2015,50,18,86
+"Charlotte, North Carolina",3/14/2015,53,16,83
+"Charlotte, North Carolina",3/15/2015,63,16,86
+"Charlotte, North Carolina",3/16/2015,62,18,83
+"Charlotte, North Carolina",3/17/2015,63,23,90
+"Charlotte, North Carolina",3/18/2015,54,21,85
+"Charlotte, North Carolina",3/19/2015,49,21,86
+"Charlotte, North Carolina",3/20/2015,50,23,85
+"Charlotte, North Carolina",3/21/2015,56,18,87
+"Charlotte, North Carolina",3/22/2015,62,24,89
+"Charlotte, North Carolina",3/23/2015,58,20,91
+"Charlotte, North Carolina",3/24/2015,59,24,88
+"Charlotte, North Carolina",3/25/2015,62,22,90
+"Charlotte, North Carolina",3/26/2015,65,22,86
+"Charlotte, North Carolina",3/27/2015,54,19,85
+"Charlotte, North Carolina",3/28/2015,43,25,90
+"Charlotte, North Carolina",3/29/2015,42,26,89
+"Charlotte, North Carolina",3/30/2015,55,24,86
+"Charlotte, North Carolina",3/31/2015,56,21,86
+"Charlotte, North Carolina",4/1/2015,61,24,86
+"Charlotte, North Carolina",4/2/2015,66,28,86
+"Charlotte, North Carolina",4/3/2015,70,28,90
+"Charlotte, North Carolina",4/4/2015,58,29,87
+"Charlotte, North Carolina",4/5/2015,52,26,88
+"Charlotte, North Carolina",4/6/2015,64,28,90
+"Charlotte, North Carolina",4/7/2015,65,25,89
+"Charlotte, North Carolina",4/8/2015,73,21,88
+"Charlotte, North Carolina",4/9/2015,77,25,89
+"Charlotte, North Carolina",4/10/2015,75,28,90
+"Charlotte, North Carolina",4/11/2015,67,28,88
+"Charlotte, North Carolina",4/12/2015,62,29,92
+"Charlotte, North Carolina",4/13/2015,66,28,90
+"Charlotte, North Carolina",4/14/2015,73,27,89
+"Charlotte, North Carolina",4/15/2015,58,28,89
+"Charlotte, North Carolina",4/16/2015,51,29,89
+"Charlotte, North Carolina",4/17/2015,62,30,94
+"Charlotte, North Carolina",4/18/2015,70,32,93
+"Charlotte, North Carolina",4/19/2015,67,30,89
+"Charlotte, North Carolina",4/20/2015,67,28,91
+"Charlotte, North Carolina",4/21/2015,58,30,90
+"Charlotte, North Carolina",4/22/2015,60,33,91
+"Charlotte, North Carolina",4/23/2015,62,35,91
+"Charlotte, North Carolina",4/24/2015,54,36,96
+"Charlotte, North Carolina",4/25/2015,56,31,93
+"Charlotte, North Carolina",4/26/2015,53,34,92
+"Charlotte, North Carolina",4/27/2015,55,37,90
+"Charlotte, North Carolina",4/28/2015,54,36,90
+"Charlotte, North Carolina",4/29/2015,55,33,91
+"Charlotte, North Carolina",4/30/2015,63,37,91
+"Charlotte, North Carolina",5/1/2015,57,37,92
+"Charlotte, North Carolina",5/2/2015,61,32,91
+"Charlotte, North Carolina",5/3/2015,63,39,94
+"Charlotte, North Carolina",5/4/2015,69,34,92
+"Charlotte, North Carolina",5/5/2015,69,36,91
+"Charlotte, North Carolina",5/6/2015,69,39,93
+"Charlotte, North Carolina",5/7/2015,70,38,95
+"Charlotte, North Carolina",5/8/2015,71,35,96
+"Charlotte, North Carolina",5/9/2015,72,39,94
+"Charlotte, North Carolina",5/10/2015,74,38,94
+"Charlotte, North Carolina",5/11/2015,76,39,95
+"Charlotte, North Carolina",5/12/2015,77,39,94
+"Charlotte, North Carolina",5/13/2015,73,38,93
+"Charlotte, North Carolina",5/14/2015,67,41,95
+"Charlotte, North Carolina",5/15/2015,73,40,94
+"Charlotte, North Carolina",5/16/2015,75,42,94
+"Charlotte, North Carolina",5/17/2015,75,43,93
+"Charlotte, North Carolina",5/18/2015,78,34,94
+"Charlotte, North Carolina",5/19/2015,77,40,95
+"Charlotte, North Carolina",5/20/2015,76,40,95
+"Charlotte, North Carolina",5/21/2015,75,41,97
+"Charlotte, North Carolina",5/22/2015,64,42,98
+"Charlotte, North Carolina",5/23/2015,65,37,98
+"Charlotte, North Carolina",5/24/2015,68,43,95
+"Charlotte, North Carolina",5/25/2015,73,41,95
+"Charlotte, North Carolina",5/26/2015,78,45,96
+"Charlotte, North Carolina",5/27/2015,75,41,96
+"Charlotte, North Carolina",5/28/2015,78,42,97
+"Charlotte, North Carolina",5/29/2015,78,48,98
+"Charlotte, North Carolina",5/30/2015,76,47,95
+"Charlotte, North Carolina",5/31/2015,78,42,97
+"Charlotte, North Carolina",6/1/2015,77,45,98
+"Charlotte, North Carolina",6/2/2015,73,46,99
+"Charlotte, North Carolina",6/3/2015,67,51,100
+"Charlotte, North Carolina",6/4/2015,69,50,98
+"Charlotte, North Carolina",6/5/2015,72,50,102
+"Charlotte, North Carolina",6/6/2015,76,48,98
+"Charlotte, North Carolina",6/7/2015,78,45,97
+"Charlotte, North Carolina",6/8/2015,79,47,99
+"Charlotte, North Carolina",6/9/2015,79,50,99
+"Charlotte, North Carolina",6/10/2015,79,46,99
+"Charlotte, North Carolina",6/11/2015,79,47,100
+"Charlotte, North Carolina",6/12/2015,81,45,98
+"Charlotte, North Carolina",6/13/2015,83,49,97
+"Charlotte, North Carolina",6/14/2015,83,53,99
+"Charlotte, North Carolina",6/15/2015,84,51,99
+"Charlotte, North Carolina",6/16/2015,84,52,99
+"Charlotte, North Carolina",6/17/2015,86,53,100
+"Charlotte, North Carolina",6/18/2015,87,52,100
+"Charlotte, North Carolina",6/19/2015,84,54,102
+"Charlotte, North Carolina",6/20/2015,83,54,102
+"Charlotte, North Carolina",6/21/2015,84,54,99
+"Charlotte, North Carolina",6/22/2015,83,53,100
+"Charlotte, North Carolina",6/23/2015,87,53,100
+"Charlotte, North Carolina",6/24/2015,88,55,102
+"Charlotte, North Carolina",6/25/2015,86,53,102
+"Charlotte, North Carolina",6/26/2015,85,55,102
+"Charlotte, North Carolina",6/27/2015,82,56,103
+"Charlotte, North Carolina",6/28/2015,76,53,101
+"Charlotte, North Carolina",6/29/2015,73,54,104
+"Charlotte, North Carolina",6/30/2015,83,54,104
+"Los Angeles, California",7/1/2014,70,52,107
+"Los Angeles, California",7/2/2014,70,51,102
+"Los Angeles, California",7/3/2014,72,52,100
+"Los Angeles, California",7/4/2014,72,53,103
+"Los Angeles, California",7/5/2014,75,50,100
+"Los Angeles, California",7/6/2014,73,51,94
+"Los Angeles, California",7/7/2014,77,51,96
+"Los Angeles, California",7/8/2014,77,51,95
+"Los Angeles, California",7/9/2014,75,52,100
+"Los Angeles, California",7/10/2014,76,55,103
+"Los Angeles, California",7/11/2014,73,52,97
+"Los Angeles, California",7/12/2014,74,49,98
+"Los Angeles, California",7/13/2014,75,51,98
+"Los Angeles, California",7/14/2014,74,52,98
+"Los Angeles, California",7/15/2014,76,50,98
+"Los Angeles, California",7/16/2014,74,52,96
+"Los Angeles, California",7/17/2014,73,52,98
+"Los Angeles, California",7/18/2014,72,53,97
+"Los Angeles, California",7/19/2014,71,52,97
+"Los Angeles, California",7/20/2014,73,52,100
+"Los Angeles, California",7/21/2014,74,53,96
+"Los Angeles, California",7/22/2014,75,52,101
+"Los Angeles, California",7/23/2014,77,53,97
+"Los Angeles, California",7/24/2014,79,52,103
+"Los Angeles, California",7/25/2014,79,52,109
+"Los Angeles, California",7/26/2014,77,52,100
+"Los Angeles, California",7/27/2014,76,52,102
+"Los Angeles, California",7/28/2014,78,52,101
+"Los Angeles, California",7/29/2014,78,53,100
+"Los Angeles, California",7/30/2014,79,54,100
+"Los Angeles, California",7/31/2014,77,52,100
+"Los Angeles, California",8/1/2014,76,54,99
+"Los Angeles, California",8/2/2014,78,51,98
+"Los Angeles, California",8/3/2014,79,52,100
+"Los Angeles, California",8/4/2014,76,52,94
+"Los Angeles, California",8/5/2014,73,52,100
+"Los Angeles, California",8/6/2014,70,50,105
+"Los Angeles, California",8/7/2014,73,54,99
+"Los Angeles, California",8/8/2014,74,54,100
+"Los Angeles, California",8/9/2014,75,53,100
+"Los Angeles, California",8/10/2014,76,54,99
+"Los Angeles, California",8/11/2014,75,53,98
+"Los Angeles, California",8/12/2014,75,52,104
+"Los Angeles, California",8/13/2014,73,54,102
+"Los Angeles, California",8/14/2014,74,54,97
+"Los Angeles, California",8/15/2014,76,52,98
+"Los Angeles, California",8/16/2014,78,52,98
+"Los Angeles, California",8/17/2014,78,52,104
+"Los Angeles, California",8/18/2014,76,52,102
+"Los Angeles, California",8/19/2014,76,54,106
+"Los Angeles, California",8/20/2014,76,51,97
+"Los Angeles, California",8/21/2014,73,53,96
+"Los Angeles, California",8/22/2014,74,52,102
+"Los Angeles, California",8/23/2014,76,54,100
+"Los Angeles, California",8/24/2014,75,53,96
+"Los Angeles, California",8/25/2014,72,52,102
+"Los Angeles, California",8/26/2014,75,53,98
+"Los Angeles, California",8/27/2014,79,53,103
+"Los Angeles, California",8/28/2014,80,52,99
+"Los Angeles, California",8/29/2014,78,51,102
+"Los Angeles, California",8/30/2014,77,49,101
+"Los Angeles, California",8/31/2014,78,52,103
+"Los Angeles, California",9/1/2014,78,49,110
+"Los Angeles, California",9/2/2014,76,51,108
+"Los Angeles, California",9/3/2014,75,51,103
+"Los Angeles, California",9/4/2014,73,52,110
+"Los Angeles, California",9/5/2014,75,50,105
+"Los Angeles, California",9/6/2014,76,48,102
+"Los Angeles, California",9/7/2014,80,50,103
+"Los Angeles, California",9/8/2014,80,47,103
+"Los Angeles, California",9/9/2014,80,48,102
+"Los Angeles, California",9/10/2014,76,52,103
+"Los Angeles, California",9/11/2014,78,48,101
+"Los Angeles, California",9/12/2014,80,48,102
+"Los Angeles, California",9/13/2014,82,48,106
+"Los Angeles, California",9/14/2014,85,48,100
+"Los Angeles, California",9/15/2014,84,49,103
+"Los Angeles, California",9/16/2014,90,48,103
+"Los Angeles, California",9/17/2014,84,46,108
+"Los Angeles, California",9/18/2014,74,48,103
+"Los Angeles, California",9/19/2014,75,49,104
+"Los Angeles, California",9/20/2014,72,49,107
+"Los Angeles, California",9/21/2014,72,47,108
+"Los Angeles, California",9/22/2014,72,48,104
+"Los Angeles, California",9/23/2014,74,44,104
+"Los Angeles, California",9/24/2014,75,45,106
+"Los Angeles, California",9/25/2014,76,48,107
+"Los Angeles, California",9/26/2014,74,48,109
+"Los Angeles, California",9/27/2014,70,46,113
+"Los Angeles, California",9/28/2014,72,49,106
+"Los Angeles, California",9/29/2014,70,44,102
+"Los Angeles, California",9/30/2014,75,48,105
+"Los Angeles, California",10/1/2014,73,49,100
+"Los Angeles, California",10/2/2014,81,44,101
+"Los Angeles, California",10/3/2014,83,44,108
+"Los Angeles, California",10/4/2014,81,44,108
+"Los Angeles, California",10/5/2014,80,46,101
+"Los Angeles, California",10/6/2014,78,44,102
+"Los Angeles, California",10/7/2014,79,43,98
+"Los Angeles, California",10/8/2014,75,43,100
+"Los Angeles, California",10/9/2014,74,46,102
+"Los Angeles, California",10/10/2014,72,46,107
+"Los Angeles, California",10/11/2014,73,42,100
+"Los Angeles, California",10/12/2014,74,43,99
+"Los Angeles, California",10/13/2014,74,42,104
+"Los Angeles, California",10/14/2014,71,44,103
+"Los Angeles, California",10/15/2014,71,43,102
+"Los Angeles, California",10/16/2014,69,44,104
+"Los Angeles, California",10/17/2014,69,44,102
+"Los Angeles, California",10/18/2014,70,44,97
+"Los Angeles, California",10/19/2014,70,43,99
+"Los Angeles, California",10/20/2014,71,43,96
+"Los Angeles, California",10/21/2014,71,45,100
+"Los Angeles, California",10/22/2014,72,40,100
+"Los Angeles, California",10/23/2014,73,41,98
+"Los Angeles, California",10/24/2014,74,43,99
+"Los Angeles, California",10/25/2014,71,43,96
+"Los Angeles, California",10/26/2014,70,45,95
+"Los Angeles, California",10/27/2014,70,41,99
+"Los Angeles, California",10/28/2014,69,45,94
+"Los Angeles, California",10/29/2014,72,43,94
+"Los Angeles, California",10/30/2014,71,41,99
+"Los Angeles, California",10/31/2014,66,42,96
+"Los Angeles, California",11/1/2014,61,38,100
+"Los Angeles, California",11/2/2014,61,36,99
+"Los Angeles, California",11/3/2014,65,41,97
+"Los Angeles, California",11/4/2014,64,44,96
+"Los Angeles, California",11/5/2014,69,41,94
+"Los Angeles, California",11/6/2014,76,40,95
+"Los Angeles, California",11/7/2014,75,41,97
+"Los Angeles, California",11/8/2014,74,40,93
+"Los Angeles, California",11/9/2014,68,43,94
+"Los Angeles, California",11/10/2014,66,42,93
+"Los Angeles, California",11/11/2014,66,39,94
+"Los Angeles, California",11/12/2014,64,38,93
+"Los Angeles, California",11/13/2014,63,35,96
+"Los Angeles, California",11/14/2014,67,36,93
+"Los Angeles, California",11/15/2014,65,40,93
+"Los Angeles, California",11/16/2014,65,35,93
+"Los Angeles, California",11/17/2014,65,36,91
+"Los Angeles, California",11/18/2014,65,34,94
+"Los Angeles, California",11/19/2014,64,34,92
+"Los Angeles, California",11/20/2014,62,37,91
+"Los Angeles, California",11/21/2014,64,39,93
+"Los Angeles, California",11/22/2014,63,36,89
+"Los Angeles, California",11/23/2014,69,39,91
+"Los Angeles, California",11/24/2014,67,36,94
+"Los Angeles, California",11/25/2014,66,36,92
+"Los Angeles, California",11/26/2014,69,40,90
+"Los Angeles, California",11/27/2014,74,37,90
+"Los Angeles, California",11/28/2014,67,36,90
+"Los Angeles, California",11/29/2014,63,37,87
+"Los Angeles, California",11/30/2014,63,37,88
+"Los Angeles, California",12/1/2014,63,38,85
+"Los Angeles, California",12/2/2014,62,36,88
+"Los Angeles, California",12/3/2014,63,36,89
+"Los Angeles, California",12/4/2014,64,37,91
+"Los Angeles, California",12/5/2014,63,38,89
+"Los Angeles, California",12/6/2014,63,36,88
+"Los Angeles, California",12/7/2014,65,32,88
+"Los Angeles, California",12/8/2014,67,30,92
+"Los Angeles, California",12/9/2014,65,32,85
+"Los Angeles, California",12/10/2014,63,36,87
+"Los Angeles, California",12/11/2014,64,34,86
+"Los Angeles, California",12/12/2014,59,34,86
+"Los Angeles, California",12/13/2014,57,31,83
+"Los Angeles, California",12/14/2014,57,30,85
+"Los Angeles, California",12/15/2014,56,36,85
+"Los Angeles, California",12/16/2014,57,37,89
+"Los Angeles, California",12/17/2014,58,34,85
+"Los Angeles, California",12/18/2014,55,35,86
+"Los Angeles, California",12/19/2014,58,32,86
+"Los Angeles, California",12/20/2014,57,35,83
+"Los Angeles, California",12/21/2014,59,30,85
+"Los Angeles, California",12/22/2014,63,33,80
+"Los Angeles, California",12/23/2014,67,33,86
+"Los Angeles, California",12/24/2014,64,33,87
+"Los Angeles, California",12/25/2014,58,30,85
+"Los Angeles, California",12/26/2014,53,35,85
+"Los Angeles, California",12/27/2014,51,36,85
+"Los Angeles, California",12/28/2014,53,36,87
+"Los Angeles, California",12/29/2014,52,35,89
+"Los Angeles, California",12/30/2014,52,37,89
+"Los Angeles, California",12/31/2014,49,36,86
+"Los Angeles, California",1/1/2015,48,35,84
+"Los Angeles, California",1/2/2015,50,32,85
+"Los Angeles, California",1/3/2015,52,33,87
+"Los Angeles, California",1/4/2015,56,28,87
+"Los Angeles, California",1/5/2015,66,31,85
+"Los Angeles, California",1/6/2015,71,30,85
+"Los Angeles, California",1/7/2015,69,28,87
+"Los Angeles, California",1/8/2015,63,32,90
+"Los Angeles, California",1/9/2015,64,31,88
+"Los Angeles, California",1/10/2015,58,31,87
+"Los Angeles, California",1/11/2015,60,32,89
+"Los Angeles, California",1/12/2015,60,33,88
+"Los Angeles, California",1/13/2015,61,34,86
+"Los Angeles, California",1/14/2015,60,34,88
+"Los Angeles, California",1/15/2015,64,32,85
+"Los Angeles, California",1/16/2015,64,31,86
+"Los Angeles, California",1/17/2015,64,34,90
+"Los Angeles, California",1/18/2015,64,37,95
+"Los Angeles, California",1/19/2015,61,32,92
+"Los Angeles, California",1/20/2015,58,30,85
+"Los Angeles, California",1/21/2015,63,32,81
+"Los Angeles, California",1/22/2015,61,34,84
+"Los Angeles, California",1/23/2015,63,33,84
+"Los Angeles, California",1/24/2015,66,36,85
+"Los Angeles, California",1/25/2015,66,36,86
+"Los Angeles, California",1/26/2015,69,31,86
+"Los Angeles, California",1/27/2015,66,32,87
+"Los Angeles, California",1/28/2015,66,35,90
+"Los Angeles, California",1/29/2015,68,30,88
+"Los Angeles, California",1/30/2015,65,35,85
+"Los Angeles, California",1/31/2015,64,32,91
+"Los Angeles, California",2/1/2015,63,34,88
+"Los Angeles, California",2/2/2015,65,34,94
+"Los Angeles, California",2/3/2015,62,30,94
+"Los Angeles, California",2/4/2015,64,32,91
+"Los Angeles, California",2/5/2015,68,33,89
+"Los Angeles, California",2/6/2015,65,28,86
+"Los Angeles, California",2/7/2015,62,32,89
+"Los Angeles, California",2/8/2015,68,36,85
+"Los Angeles, California",2/9/2015,66,33,85
+"Los Angeles, California",2/10/2015,66,37,88
+"Los Angeles, California",2/11/2015,70,35,88
+"Los Angeles, California",2/12/2015,71,35,91
+"Los Angeles, California",2/13/2015,73,35,90
+"Los Angeles, California",2/14/2015,71,32,90
+"Los Angeles, California",2/15/2015,67,33,88
+"Los Angeles, California",2/16/2015,63,35,88
+"Los Angeles, California",2/17/2015,64,33,89
+"Los Angeles, California",2/18/2015,65,32,89
+"Los Angeles, California",2/19/2015,65,34,91
+"Los Angeles, California",2/20/2015,63,34,95
+"Los Angeles, California",2/21/2015,63,35,88
+"Los Angeles, California",2/22/2015,59,35,90
+"Los Angeles, California",2/23/2015,58,35,90
+"Los Angeles, California",2/24/2015,60,35,94
+"Los Angeles, California",2/25/2015,62,40,92
+"Los Angeles, California",2/26/2015,61,37,87
+"Los Angeles, California",2/27/2015,61,38,86
+"Los Angeles, California",2/28/2015,59,39,88
+"Los Angeles, California",3/1/2015,58,36,88
+"Los Angeles, California",3/2/2015,56,35,87
+"Los Angeles, California",3/3/2015,58,38,85
+"Los Angeles, California",3/4/2015,60,35,94
+"Los Angeles, California",3/5/2015,64,35,87
+"Los Angeles, California",3/6/2015,66,39,90
+"Los Angeles, California",3/7/2015,70,40,89
+"Los Angeles, California",3/8/2015,66,35,93
+"Los Angeles, California",3/9/2015,65,31,90
+"Los Angeles, California",3/10/2015,68,38,96
+"Los Angeles, California",3/11/2015,67,41,93
+"Los Angeles, California",3/12/2015,71,36,93
+"Los Angeles, California",3/13/2015,76,40,90
+"Los Angeles, California",3/14/2015,78,39,93
+"Los Angeles, California",3/15/2015,79,37,92
+"Los Angeles, California",3/16/2015,78,36,91
+"Los Angeles, California",3/17/2015,73,37,94
+"Los Angeles, California",3/18/2015,69,38,87
+"Los Angeles, California",3/19/2015,68,37,97
+"Los Angeles, California",3/20/2015,69,39,93
+"Los Angeles, California",3/21/2015,69,35,93
+"Los Angeles, California",3/22/2015,66,37,88
+"Los Angeles, California",3/23/2015,65,36,88
+"Los Angeles, California",3/24/2015,67,37,94
+"Los Angeles, California",3/25/2015,72,37,96
+"Los Angeles, California",3/26/2015,77,39,98
+"Los Angeles, California",3/27/2015,77,37,91
+"Los Angeles, California",3/28/2015,71,37,90
+"Los Angeles, California",3/29/2015,67,41,99
+"Los Angeles, California",3/30/2015,68,36,89
+"Los Angeles, California",3/31/2015,65,40,92
+"Los Angeles, California",4/1/2015,66,40,93
+"Los Angeles, California",4/2/2015,65,39,96
+"Los Angeles, California",4/3/2015,72,40,94
+"Los Angeles, California",4/4/2015,72,43,100
+"Los Angeles, California",4/5/2015,64,42,105
+"Los Angeles, California",4/6/2015,60,40,106
+"Los Angeles, California",4/7/2015,59,39,100
+"Los Angeles, California",4/8/2015,60,36,92
+"Los Angeles, California",4/9/2015,65,40,94
+"Los Angeles, California",4/10/2015,63,41,96
+"Los Angeles, California",4/11/2015,63,40,90
+"Los Angeles, California",4/12/2015,67,42,97
+"Los Angeles, California",4/13/2015,67,41,99
+"Los Angeles, California",4/14/2015,66,39,95
+"Los Angeles, California",4/15/2015,69,43,99
+"Los Angeles, California",4/16/2015,68,42,91
+"Los Angeles, California",4/17/2015,69,40,90
+"Los Angeles, California",4/18/2015,69,40,91
+"Los Angeles, California",4/19/2015,65,40,94
+"Los Angeles, California",4/20/2015,63,38,100
+"Los Angeles, California",4/21/2015,63,38,95
+"Los Angeles, California",4/22/2015,63,44,99
+"Los Angeles, California",4/23/2015,62,42,100
+"Los Angeles, California",4/24/2015,62,44,93
+"Los Angeles, California",4/25/2015,61,42,94
+"Los Angeles, California",4/26/2015,66,42,99
+"Los Angeles, California",4/27/2015,70,41,102
+"Los Angeles, California",4/28/2015,77,41,96
+"Los Angeles, California",4/29/2015,75,44,98
+"Los Angeles, California",4/30/2015,73,44,96
+"Los Angeles, California",5/1/2015,71,41,92
+"Los Angeles, California",5/2/2015,70,44,98
+"Los Angeles, California",5/3/2015,66,42,101
+"Los Angeles, California",5/4/2015,63,44,93
+"Los Angeles, California",5/5/2015,63,46,101
+"Los Angeles, California",5/6/2015,63,43,97
+"Los Angeles, California",5/7/2015,60,42,97
+"Los Angeles, California",5/8/2015,57,43,97
+"Los Angeles, California",5/9/2015,62,44,99
+"Los Angeles, California",5/10/2015,63,43,95
+"Los Angeles, California",5/11/2015,67,43,93
+"Los Angeles, California",5/12/2015,65,44,94
+"Los Angeles, California",5/13/2015,64,43,98
+"Los Angeles, California",5/14/2015,61,45,99
+"Los Angeles, California",5/15/2015,61,42,102
+"Los Angeles, California",5/16/2015,64,40,102
+"Los Angeles, California",5/17/2015,65,42,96
+"Los Angeles, California",5/18/2015,66,45,99
+"Los Angeles, California",5/19/2015,65,45,95
+"Los Angeles, California",5/20/2015,65,45,99
+"Los Angeles, California",5/21/2015,64,43,100
+"Los Angeles, California",5/22/2015,63,44,94
+"Los Angeles, California",5/23/2015,64,41,92
+"Los Angeles, California",5/24/2015,64,45,95
+"Los Angeles, California",5/25/2015,64,47,103
+"Los Angeles, California",5/26/2015,64,46,96
+"Los Angeles, California",5/27/2015,65,47,97
+"Los Angeles, California",5/28/2015,66,48,101
+"Los Angeles, California",5/29/2015,68,46,99
+"Los Angeles, California",5/30/2015,68,48,95
+"Los Angeles, California",5/31/2015,66,47,98
+"Los Angeles, California",6/1/2015,67,47,100
+"Los Angeles, California",6/2/2015,68,47,104
+"Los Angeles, California",6/3/2015,68,49,99
+"Los Angeles, California",6/4/2015,66,47,100
+"Los Angeles, California",6/5/2015,67,50,98
+"Los Angeles, California",6/6/2015,65,47,102
+"Los Angeles, California",6/7/2015,69,48,105
+"Los Angeles, California",6/8/2015,73,49,99
+"Los Angeles, California",6/9/2015,74,50,94
+"Los Angeles, California",6/10/2015,68,46,102
+"Los Angeles, California",6/11/2015,69,48,105
+"Los Angeles, California",6/12/2015,68,47,100
+"Los Angeles, California",6/13/2015,68,46,99
+"Los Angeles, California",6/14/2015,70,49,100
+"Los Angeles, California",6/15/2015,70,48,102
+"Los Angeles, California",6/16/2015,70,49,105
+"Los Angeles, California",6/17/2015,70,49,105
+"Los Angeles, California",6/18/2015,72,47,104
+"Los Angeles, California",6/19/2015,70,48,101
+"Los Angeles, California",6/20/2015,74,48,106
+"Los Angeles, California",6/21/2015,73,50,105
+"Los Angeles, California",6/22/2015,73,51,97
+"Los Angeles, California",6/23/2015,74,49,97
+"Los Angeles, California",6/24/2015,73,50,102
+"Los Angeles, California",6/25/2015,72,49,98
+"Los Angeles, California",6/26/2015,69,48,112
+"Los Angeles, California",6/27/2015,70,49,109
+"Los Angeles, California",6/28/2015,77,52,98
+"Los Angeles, California",6/29/2015,80,50,98
+"Los Angeles, California",6/30/2015,78,49,100
+"Indianapolis, Indiana",7/1/2014,76,48,97
+"Indianapolis, Indiana",7/2/2014,71,50,99
+"Indianapolis, Indiana",7/3/2014,67,49,100
+"Indianapolis, Indiana",7/4/2014,67,48,103
+"Indianapolis, Indiana",7/5/2014,69,49,103
+"Indianapolis, Indiana",7/6/2014,74,48,105
+"Indianapolis, Indiana",7/7/2014,74,54,105
+"Indianapolis, Indiana",7/8/2014,74,51,104
+"Indianapolis, Indiana",7/9/2014,72,52,103
+"Indianapolis, Indiana",7/10/2014,71,50,105
+"Indianapolis, Indiana",7/11/2014,71,52,104
+"Indianapolis, Indiana",7/12/2014,74,53,103
+"Indianapolis, Indiana",7/13/2014,78,49,103
+"Indianapolis, Indiana",7/14/2014,75,48,106
+"Indianapolis, Indiana",7/15/2014,64,51,103
+"Indianapolis, Indiana",7/16/2014,63,49,98
+"Indianapolis, Indiana",7/17/2014,65,51,101
+"Indianapolis, Indiana",7/18/2014,68,51,100
+"Indianapolis, Indiana",7/19/2014,68,50,98
+"Indianapolis, Indiana",7/20/2014,71,49,103
+"Indianapolis, Indiana",7/21/2014,74,46,106
+"Indianapolis, Indiana",7/22/2014,78,49,106
+"Indianapolis, Indiana",7/23/2014,69,46,102
+"Indianapolis, Indiana",7/24/2014,67,52,105
+"Indianapolis, Indiana",7/25/2014,65,51,105
+"Indianapolis, Indiana",7/26/2014,75,51,98
+"Indianapolis, Indiana",7/27/2014,76,51,100
+"Indianapolis, Indiana",7/28/2014,65,51,101
+"Indianapolis, Indiana",7/29/2014,64,51,100
+"Indianapolis, Indiana",7/30/2014,68,51,103
+"Indianapolis, Indiana",7/31/2014,70,49,98
+"Indianapolis, Indiana",8/1/2014,72,53,97
+"Indianapolis, Indiana",8/2/2014,73,52,98
+"Indianapolis, Indiana",8/3/2014,73,50,98
+"Indianapolis, Indiana",8/4/2014,74,49,99
+"Indianapolis, Indiana",8/5/2014,73,51,103
+"Indianapolis, Indiana",8/6/2014,71,50,99
+"Indianapolis, Indiana",8/7/2014,71,49,98
+"Indianapolis, Indiana",8/8/2014,70,48,98
+"Indianapolis, Indiana",8/9/2014,76,50,99
+"Indianapolis, Indiana",8/10/2014,77,50,99
+"Indianapolis, Indiana",8/11/2014,75,52,99
+"Indianapolis, Indiana",8/12/2014,65,47,101
+"Indianapolis, Indiana",8/13/2014,67,48,98
+"Indianapolis, Indiana",8/14/2014,70,48,95
+"Indianapolis, Indiana",8/15/2014,63,45,96
+"Indianapolis, Indiana",8/16/2014,67,50,102
+"Indianapolis, Indiana",8/17/2014,73,52,99
+"Indianapolis, Indiana",8/18/2014,76,48,98
+"Indianapolis, Indiana",8/19/2014,76,50,100
+"Indianapolis, Indiana",8/20/2014,74,50,99
+"Indianapolis, Indiana",8/21/2014,78,47,100
+"Indianapolis, Indiana",8/22/2014,80,46,101
+"Indianapolis, Indiana",8/23/2014,79,46,96
+"Indianapolis, Indiana",8/24/2014,78,49,98
+"Indianapolis, Indiana",8/25/2014,81,49,96
+"Indianapolis, Indiana",8/26/2014,81,48,97
+"Indianapolis, Indiana",8/27/2014,79,48,97
+"Indianapolis, Indiana",8/28/2014,75,43,96
+"Indianapolis, Indiana",8/29/2014,78,41,97
+"Indianapolis, Indiana",8/30/2014,75,42,95
+"Indianapolis, Indiana",8/31/2014,76,44,97
+"Indianapolis, Indiana",9/1/2014,77,44,100
+"Indianapolis, Indiana",9/2/2014,72,45,100
+"Indianapolis, Indiana",9/3/2014,74,45,100
+"Indianapolis, Indiana",9/4/2014,77,46,98
+"Indianapolis, Indiana",9/5/2014,80,45,100
+"Indianapolis, Indiana",9/6/2014,67,44,99
+"Indianapolis, Indiana",9/7/2014,65,42,98
+"Indianapolis, Indiana",9/8/2014,68,38,97
+"Indianapolis, Indiana",9/9/2014,69,41,98
+"Indianapolis, Indiana",9/10/2014,75,40,96
+"Indianapolis, Indiana",9/11/2014,64,39,95
+"Indianapolis, Indiana",9/12/2014,59,40,96
+"Indianapolis, Indiana",9/13/2014,55,39,99
+"Indianapolis, Indiana",9/14/2014,57,37,100
+"Indianapolis, Indiana",9/15/2014,57,42,100
+"Indianapolis, Indiana",9/16/2014,59,39,96
+"Indianapolis, Indiana",9/17/2014,56,40,93
+"Indianapolis, Indiana",9/18/2014,61,39,95
+"Indianapolis, Indiana",9/19/2014,63,38,93
+"Indianapolis, Indiana",9/20/2014,67,36,94
+"Indianapolis, Indiana",9/21/2014,65,35,96
+"Indianapolis, Indiana",9/22/2014,57,37,93
+"Indianapolis, Indiana",9/23/2014,60,34,94
+"Indianapolis, Indiana",9/24/2014,62,34,92
+"Indianapolis, Indiana",9/25/2014,66,35,92
+"Indianapolis, Indiana",9/26/2014,69,37,91
+"Indianapolis, Indiana",9/27/2014,69,35,93
+"Indianapolis, Indiana",9/28/2014,71,33,91
+"Indianapolis, Indiana",9/29/2014,68,34,97
+"Indianapolis, Indiana",9/30/2014,62,30,89
+"Indianapolis, Indiana",10/1/2014,63,32,89
+"Indianapolis, Indiana",10/2/2014,71,29,89
+"Indianapolis, Indiana",10/3/2014,59,27,90
+"Indianapolis, Indiana",10/4/2014,45,31,90
+"Indianapolis, Indiana",10/5/2014,50,31,87
+"Indianapolis, Indiana",10/6/2014,55,30,89
+"Indianapolis, Indiana",10/7/2014,54,27,90
+"Indianapolis, Indiana",10/8/2014,56,28,91
+"Indianapolis, Indiana",10/9/2014,51,30,88
+"Indianapolis, Indiana",10/10/2014,52,27,88
+"Indianapolis, Indiana",10/11/2014,50,26,86
+"Indianapolis, Indiana",10/12/2014,54,26,86
+"Indianapolis, Indiana",10/13/2014,67,24,86
+"Indianapolis, Indiana",10/14/2014,61,24,86
+"Indianapolis, Indiana",10/15/2014,55,27,87
+"Indianapolis, Indiana",10/16/2014,56,26,85
+"Indianapolis, Indiana",10/17/2014,59,26,86
+"Indianapolis, Indiana",10/18/2014,50,22,84
+"Indianapolis, Indiana",10/19/2014,50,25,85
+"Indianapolis, Indiana",10/20/2014,57,23,86
+"Indianapolis, Indiana",10/21/2014,51,23,86
+"Indianapolis, Indiana",10/22/2014,48,23,85
+"Indianapolis, Indiana",10/23/2014,49,24,86
+"Indianapolis, Indiana",10/24/2014,53,20,81
+"Indianapolis, Indiana",10/25/2014,63,25,82
+"Indianapolis, Indiana",10/26/2014,55,20,82
+"Indianapolis, Indiana",10/27/2014,66,24,83
+"Indianapolis, Indiana",10/28/2014,58,20,82
+"Indianapolis, Indiana",10/29/2014,47,22,81
+"Indianapolis, Indiana",10/30/2014,44,22,82
+"Indianapolis, Indiana",10/31/2014,40,24,82
+"Indianapolis, Indiana",11/1/2014,36,24,81
+"Indianapolis, Indiana",11/2/2014,37,16,78
+"Indianapolis, Indiana",11/3/2014,54,11,77
+"Indianapolis, Indiana",11/4/2014,51,16,78
+"Indianapolis, Indiana",11/5/2014,47,15,76
+"Indianapolis, Indiana",11/6/2014,43,20,77
+"Indianapolis, Indiana",11/7/2014,40,16,76
+"Indianapolis, Indiana",11/8/2014,42,13,76
+"Indianapolis, Indiana",11/9/2014,40,17,76
+"Indianapolis, Indiana",11/10/2014,50,17,75
+"Indianapolis, Indiana",11/11/2014,48,18,76
+"Indianapolis, Indiana",11/12/2014,31,14,75
+"Indianapolis, Indiana",11/13/2014,24,10,77
+"Indianapolis, Indiana",11/14/2014,25,11,76
+"Indianapolis, Indiana",11/15/2014,26,12,74
+"Indianapolis, Indiana",11/16/2014,32,10,74
+"Indianapolis, Indiana",11/17/2014,21,4,77
+"Indianapolis, Indiana",11/18/2014,14,5,73
+"Indianapolis, Indiana",11/19/2014,26,-3,76
+"Indianapolis, Indiana",11/20/2014,24,8,75
+"Indianapolis, Indiana",11/21/2014,23,2,73
+"Indianapolis, Indiana",11/22/2014,43,-5,74
+"Indianapolis, Indiana",11/23/2014,50,1,73
+"Indianapolis, Indiana",11/24/2014,46,-1,65
+"Indianapolis, Indiana",11/25/2014,31,-2,69
+"Indianapolis, Indiana",11/26/2014,30,3,70
+"Indianapolis, Indiana",11/27/2014,28,1,70
+"Indianapolis, Indiana",11/28/2014,27,2,69
+"Indianapolis, Indiana",11/29/2014,44,-1,70
+"Indianapolis, Indiana",11/30/2014,52,-2,68
+"Indianapolis, Indiana",12/1/2014,33,4,70
+"Indianapolis, Indiana",12/2/2014,30,-3,74
+"Indianapolis, Indiana",12/3/2014,36,-2,69
+"Indianapolis, Indiana",12/4/2014,32,5,70
+"Indianapolis, Indiana",12/5/2014,37,8,70
+"Indianapolis, Indiana",12/6/2014,35,-1,73
+"Indianapolis, Indiana",12/7/2014,33,-7,65
+"Indianapolis, Indiana",12/8/2014,36,-10,66
+"Indianapolis, Indiana",12/9/2014,36,-15,65
+"Indianapolis, Indiana",12/10/2014,33,-8,66
+"Indianapolis, Indiana",12/11/2014,31,-9,66
+"Indianapolis, Indiana",12/12/2014,29,-7,63
+"Indianapolis, Indiana",12/13/2014,40,-4,65
+"Indianapolis, Indiana",12/14/2014,45,-4,68
+"Indianapolis, Indiana",12/15/2014,43,-10,69
+"Indianapolis, Indiana",12/16/2014,39,-15,65
+"Indianapolis, Indiana",12/17/2014,27,-10,64
+"Indianapolis, Indiana",12/18/2014,25,-10,65
+"Indianapolis, Indiana",12/19/2014,24,-12,67
+"Indianapolis, Indiana",12/20/2014,29,-12,66
+"Indianapolis, Indiana",12/21/2014,28,-21,67
+"Indianapolis, Indiana",12/22/2014,37,-23,61
+"Indianapolis, Indiana",12/23/2014,50,-15,64
+"Indianapolis, Indiana",12/24/2014,40,-17,68
+"Indianapolis, Indiana",12/25/2014,36,-15,64
+"Indianapolis, Indiana",12/26/2014,41,-5,67
+"Indianapolis, Indiana",12/27/2014,40,-7,68
+"Indianapolis, Indiana",12/28/2014,28,-13,65
+"Indianapolis, Indiana",12/29/2014,29,-13,66
+"Indianapolis, Indiana",12/30/2014,23,-14,67
+"Indianapolis, Indiana",12/31/2014,16,-9,68
+"Indianapolis, Indiana",1/1/2015,26,-12,69
+"Indianapolis, Indiana",1/2/2015,32,-12,65
+"Indianapolis, Indiana",1/3/2015,43,-22,65
+"Indianapolis, Indiana",1/4/2015,28,-15,66
+"Indianapolis, Indiana",1/5/2015,9,-25,61
+"Indianapolis, Indiana",1/6/2015,14,-20,63
+"Indianapolis, Indiana",1/7/2015,3,-17,68
+"Indianapolis, Indiana",1/8/2015,7,-13,63
+"Indianapolis, Indiana",1/9/2015,11,-18,66
+"Indianapolis, Indiana",1/10/2015,11,-16,62
+"Indianapolis, Indiana",1/11/2015,28,-16,70
+"Indianapolis, Indiana",1/12/2015,25,-19,69
+"Indianapolis, Indiana",1/13/2015,16,-10,64
+"Indianapolis, Indiana",1/14/2015,13,-7,65
+"Indianapolis, Indiana",1/15/2015,25,-17,66
+"Indianapolis, Indiana",1/16/2015,32,-20,66
+"Indianapolis, Indiana",1/17/2015,39,-20,67
+"Indianapolis, Indiana",1/18/2015,36,-22,64
+"Indianapolis, Indiana",1/19/2015,35,-27,69
+"Indianapolis, Indiana",1/20/2015,40,-22,70
+"Indianapolis, Indiana",1/21/2015,37,-21,68
+"Indianapolis, Indiana",1/22/2015,31,-17,64
+"Indianapolis, Indiana",1/23/2015,29,-18,67
+"Indianapolis, Indiana",1/24/2015,30,-16,70
+"Indianapolis, Indiana",1/25/2015,29,-14,71
+"Indianapolis, Indiana",1/26/2015,22,-12,67
+"Indianapolis, Indiana",1/27/2015,25,-10,66
+"Indianapolis, Indiana",1/28/2015,25,-18,65
+"Indianapolis, Indiana",1/29/2015,38,-13,66
+"Indianapolis, Indiana",1/30/2015,26,-11,65
+"Indianapolis, Indiana",1/31/2015,26,-11,66
+"Indianapolis, Indiana",2/1/2015,30,-11,63
+"Indianapolis, Indiana",2/2/2015,20,-19,59
+"Indianapolis, Indiana",2/3/2015,26,-11,62
+"Indianapolis, Indiana",2/4/2015,29,-12,69
+"Indianapolis, Indiana",2/5/2015,15,-16,66
+"Indianapolis, Indiana",2/6/2015,25,-12,64
+"Indianapolis, Indiana",2/7/2015,42,-11,66
+"Indianapolis, Indiana",2/8/2015,47,-14,68
+"Indianapolis, Indiana",2/9/2015,31,-18,66
+"Indianapolis, Indiana",2/10/2015,27,-21,73
+"Indianapolis, Indiana",2/11/2015,32,-9,75
+"Indianapolis, Indiana",2/12/2015,20,-10,66
+"Indianapolis, Indiana",2/13/2015,20,-17,67
+"Indianapolis, Indiana",2/14/2015,18,-14,65
+"Indianapolis, Indiana",2/15/2015,12,-8,72
+"Indianapolis, Indiana",2/16/2015,11,-7,72
+"Indianapolis, Indiana",2/17/2015,14,-9,69
+"Indianapolis, Indiana",2/18/2015,9,-11,66
+"Indianapolis, Indiana",2/19/2015,2,-8,69
+"Indianapolis, Indiana",2/20/2015,6,-8,67
+"Indianapolis, Indiana",2/21/2015,26,-4,68
+"Indianapolis, Indiana",2/22/2015,22,-9,70
+"Indianapolis, Indiana",2/23/2015,11,-1,71
+"Indianapolis, Indiana",2/24/2015,10,-6,71
+"Indianapolis, Indiana",2/25/2015,24,-7,76
+"Indianapolis, Indiana",2/26/2015,16,-6,68
+"Indianapolis, Indiana",2/27/2015,10,-7,73
+"Indianapolis, Indiana",2/28/2015,16,2,68
+"Indianapolis, Indiana",3/1/2015,27,-4,71
+"Indianapolis, Indiana",3/2/2015,24,-7,74
+"Indianapolis, Indiana",3/3/2015,33,-5,77
+"Indianapolis, Indiana",3/4/2015,27,2,78
+"Indianapolis, Indiana",3/5/2015,16,-1,75
+"Indianapolis, Indiana",3/6/2015,16,-6,75
+"Indianapolis, Indiana",3/7/2015,32,-1,78
+"Indianapolis, Indiana",3/8/2015,38,-6,80
+"Indianapolis, Indiana",3/9/2015,40,-1,72
+"Indianapolis, Indiana",3/10/2015,45,8,74
+"Indianapolis, Indiana",3/11/2015,49,3,77
+"Indianapolis, Indiana",3/12/2015,46,-5,76
+"Indianapolis, Indiana",3/13/2015,48,3,80
+"Indianapolis, Indiana",3/14/2015,51,10,81
+"Indianapolis, Indiana",3/15/2015,49,6,80
+"Indianapolis, Indiana",3/16/2015,61,3,79
+"Indianapolis, Indiana",3/17/2015,47,2,77
+"Indianapolis, Indiana",3/18/2015,37,7,80
+"Indianapolis, Indiana",3/19/2015,45,7,82
+"Indianapolis, Indiana",3/20/2015,44,3,83
+"Indianapolis, Indiana",3/21/2015,49,11,84
+"Indianapolis, Indiana",3/22/2015,44,9,82
+"Indianapolis, Indiana",3/23/2015,36,12,80
+"Indianapolis, Indiana",3/24/2015,35,2,84
+"Indianapolis, Indiana",3/25/2015,48,5,81
+"Indianapolis, Indiana",3/26/2015,40,8,80
+"Indianapolis, Indiana",3/27/2015,28,11,84
+"Indianapolis, Indiana",3/28/2015,29,16,82
+"Indianapolis, Indiana",3/29/2015,38,16,82
+"Indianapolis, Indiana",3/30/2015,49,17,82
+"Indianapolis, Indiana",3/31/2015,54,13,85
+"Indianapolis, Indiana",4/1/2015,53,20,82
+"Indianapolis, Indiana",4/2/2015,62,20,81
+"Indianapolis, Indiana",4/3/2015,50,21,84
+"Indianapolis, Indiana",4/4/2015,43,23,80
+"Indianapolis, Indiana",4/5/2015,49,20,84
+"Indianapolis, Indiana",4/6/2015,55,22,83
+"Indianapolis, Indiana",4/7/2015,61,19,83
+"Indianapolis, Indiana",4/8/2015,64,18,83
+"Indianapolis, Indiana",4/9/2015,71,18,84
+"Indianapolis, Indiana",4/10/2015,56,23,84
+"Indianapolis, Indiana",4/11/2015,50,24,89
+"Indianapolis, Indiana",4/12/2015,57,20,86
+"Indianapolis, Indiana",4/13/2015,64,18,86
+"Indianapolis, Indiana",4/14/2015,58,24,85
+"Indianapolis, Indiana",4/15/2015,58,24,84
+"Indianapolis, Indiana",4/16/2015,61,21,87
+"Indianapolis, Indiana",4/17/2015,61,19,87
+"Indianapolis, Indiana",4/18/2015,64,19,87
+"Indianapolis, Indiana",4/19/2015,62,23,85
+"Indianapolis, Indiana",4/20/2015,52,23,85
+"Indianapolis, Indiana",4/21/2015,52,28,84
+"Indianapolis, Indiana",4/22/2015,44,27,85
+"Indianapolis, Indiana",4/23/2015,45,26,88
+"Indianapolis, Indiana",4/24/2015,47,28,90
+"Indianapolis, Indiana",4/25/2015,50,27,87
+"Indianapolis, Indiana",4/26/2015,49,31,87
+"Indianapolis, Indiana",4/27/2015,47,30,84
+"Indianapolis, Indiana",4/28/2015,51,28,86
+"Indianapolis, Indiana",4/29/2015,54,31,86
+"Indianapolis, Indiana",4/30/2015,53,31,90
+"Indianapolis, Indiana",5/1/2015,55,29,89
+"Indianapolis, Indiana",5/2/2015,62,31,87
+"Indianapolis, Indiana",5/3/2015,66,29,86
+"Indianapolis, Indiana",5/4/2015,67,30,88
+"Indianapolis, Indiana",5/5/2015,73,35,92
+"Indianapolis, Indiana",5/6/2015,74,31,89
+"Indianapolis, Indiana",5/7/2015,75,31,87
+"Indianapolis, Indiana",5/8/2015,74,31,90
+"Indianapolis, Indiana",5/9/2015,73,29,93
+"Indianapolis, Indiana",5/10/2015,74,28,92
+"Indianapolis, Indiana",5/11/2015,70,31,89
+"Indianapolis, Indiana",5/12/2015,57,33,88
+"Indianapolis, Indiana",5/13/2015,55,35,88
+"Indianapolis, Indiana",5/14/2015,60,33,88
+"Indianapolis, Indiana",5/15/2015,71,35,88
+"Indianapolis, Indiana",5/16/2015,68,32,90
+"Indianapolis, Indiana",5/17/2015,72,36,90
+"Indianapolis, Indiana",5/18/2015,71,35,90
+"Indianapolis, Indiana",5/19/2015,57,32,90
+"Indianapolis, Indiana",5/20/2015,48,38,90
+"Indianapolis, Indiana",5/21/2015,56,36,92
+"Indianapolis, Indiana",5/22/2015,60,35,93
+"Indianapolis, Indiana",5/23/2015,67,37,92
+"Indianapolis, Indiana",5/24/2015,72,37,90
+"Indianapolis, Indiana",5/25/2015,73,34,93
+"Indianapolis, Indiana",5/26/2015,72,35,94
+"Indianapolis, Indiana",5/27/2015,73,31,94
+"Indianapolis, Indiana",5/28/2015,72,39,96
+"Indianapolis, Indiana",5/29/2015,75,36,93
+"Indianapolis, Indiana",5/30/2015,75,37,94
+"Indianapolis, Indiana",5/31/2015,61,36,96
+"Indianapolis, Indiana",6/1/2015,58,39,96
+"Indianapolis, Indiana",6/2/2015,60,39,100
+"Indianapolis, Indiana",6/3/2015,61,40,100
+"Indianapolis, Indiana",6/4/2015,70,43,95
+"Indianapolis, Indiana",6/5/2015,75,40,98
+"Indianapolis, Indiana",6/6/2015,69,39,96
+"Indianapolis, Indiana",6/7/2015,75,41,98
+"Indianapolis, Indiana",6/8/2015,70,44,95
+"Indianapolis, Indiana",6/9/2015,70,41,94
+"Indianapolis, Indiana",6/10/2015,78,44,96
+"Indianapolis, Indiana",6/11/2015,80,41,96
+"Indianapolis, Indiana",6/12/2015,81,42,96
+"Indianapolis, Indiana",6/13/2015,80,45,95
+"Indianapolis, Indiana",6/14/2015,78,45,94
+"Indianapolis, Indiana",6/15/2015,79,45,94
+"Indianapolis, Indiana",6/16/2015,78,41,96
+"Indianapolis, Indiana",6/17/2015,76,46,95
+"Indianapolis, Indiana",6/18/2015,77,45,96
+"Indianapolis, Indiana",6/19/2015,73,48,97
+"Indianapolis, Indiana",6/20/2015,75,44,100
+"Indianapolis, Indiana",6/21/2015,75,41,98
+"Indianapolis, Indiana",6/22/2015,78,37,99
+"Indianapolis, Indiana",6/23/2015,76,44,96
+"Indianapolis, Indiana",6/24/2015,71,49,98
+"Indianapolis, Indiana",6/25/2015,75,46,102
+"Indianapolis, Indiana",6/26/2015,71,49,102
+"Indianapolis, Indiana",6/27/2015,66,48,100
+"Indianapolis, Indiana",6/28/2015,67,50,104
+"Indianapolis, Indiana",6/29/2015,70,48,103
+"Indianapolis, Indiana",6/30/2015,73,46,97
+"Jacksonville, Florida",7/1/2014,82,65,100
+"Jacksonville, Florida",7/2/2014,81,65,100
+"Jacksonville, Florida",7/3/2014,84,63,99
+"Jacksonville, Florida",7/4/2014,81,65,99
+"Jacksonville, Florida",7/5/2014,82,66,100
+"Jacksonville, Florida",7/6/2014,79,66,100
+"Jacksonville, Florida",7/7/2014,81,65,101
+"Jacksonville, Florida",7/8/2014,82,61,100
+"Jacksonville, Florida",7/9/2014,83,63,101
+"Jacksonville, Florida",7/10/2014,82,65,102
+"Jacksonville, Florida",7/11/2014,81,65,104
+"Jacksonville, Florida",7/12/2014,76,66,102
+"Jacksonville, Florida",7/13/2014,80,66,102
+"Jacksonville, Florida",7/14/2014,83,63,102
+"Jacksonville, Florida",7/15/2014,82,62,102
+"Jacksonville, Florida",7/16/2014,81,67,102
+"Jacksonville, Florida",7/17/2014,79,64,103
+"Jacksonville, Florida",7/18/2014,79,68,100
+"Jacksonville, Florida",7/19/2014,82,65,101
+"Jacksonville, Florida",7/20/2014,83,68,103
+"Jacksonville, Florida",7/21/2014,81,66,102
+"Jacksonville, Florida",7/22/2014,81,67,101
+"Jacksonville, Florida",7/23/2014,83,64,99
+"Jacksonville, Florida",7/24/2014,83,68,100
+"Jacksonville, Florida",7/25/2014,84,64,101
+"Jacksonville, Florida",7/26/2014,83,67,102
+"Jacksonville, Florida",7/27/2014,86,67,100
+"Jacksonville, Florida",7/28/2014,87,67,104
+"Jacksonville, Florida",7/29/2014,85,69,100
+"Jacksonville, Florida",7/30/2014,81,68,102
+"Jacksonville, Florida",7/31/2014,81,69,102
+"Jacksonville, Florida",8/1/2014,84,68,102
+"Jacksonville, Florida",8/2/2014,82,68,101
+"Jacksonville, Florida",8/3/2014,81,69,99
+"Jacksonville, Florida",8/4/2014,80,68,99
+"Jacksonville, Florida",8/5/2014,83,69,99
+"Jacksonville, Florida",8/6/2014,84,67,99
+"Jacksonville, Florida",8/7/2014,85,66,100
+"Jacksonville, Florida",8/8/2014,84,64,98
+"Jacksonville, Florida",8/9/2014,84,63,101
+"Jacksonville, Florida",8/10/2014,83,66,99
+"Jacksonville, Florida",8/11/2014,82,68,98
+"Jacksonville, Florida",8/12/2014,82,65,100
+"Jacksonville, Florida",8/13/2014,80,64,99
+"Jacksonville, Florida",8/14/2014,82,66,97
+"Jacksonville, Florida",8/15/2014,81,67,99
+"Jacksonville, Florida",8/16/2014,83,67,97
+"Jacksonville, Florida",8/17/2014,83,67,99
+"Jacksonville, Florida",8/18/2014,84,67,98
+"Jacksonville, Florida",8/19/2014,84,64,99
+"Jacksonville, Florida",8/20/2014,84,68,101
+"Jacksonville, Florida",8/21/2014,85,66,101
+"Jacksonville, Florida",8/22/2014,86,64,100
+"Jacksonville, Florida",8/23/2014,87,65,98
+"Jacksonville, Florida",8/24/2014,82,66,99
+"Jacksonville, Florida",8/25/2014,80,65,98
+"Jacksonville, Florida",8/26/2014,78,64,98
+"Jacksonville, Florida",8/27/2014,77,64,99
+"Jacksonville, Florida",8/28/2014,77,64,97
+"Jacksonville, Florida",8/29/2014,80,63,99
+"Jacksonville, Florida",8/30/2014,82,64,98
+"Jacksonville, Florida",8/31/2014,82,64,98
+"Jacksonville, Florida",9/1/2014,84,62,98
+"Jacksonville, Florida",9/2/2014,83,57,98
+"Jacksonville, Florida",9/3/2014,81,64,99
+"Jacksonville, Florida",9/4/2014,79,66,97
+"Jacksonville, Florida",9/5/2014,79,63,98
+"Jacksonville, Florida",9/6/2014,80,61,98
+"Jacksonville, Florida",9/7/2014,76,63,96
+"Jacksonville, Florida",9/8/2014,80,61,98
+"Jacksonville, Florida",9/9/2014,79,62,97
+"Jacksonville, Florida",9/10/2014,80,62,97
+"Jacksonville, Florida",9/11/2014,80,62,96
+"Jacksonville, Florida",9/12/2014,81,61,96
+"Jacksonville, Florida",9/13/2014,82,61,97
+"Jacksonville, Florida",9/14/2014,82,62,96
+"Jacksonville, Florida",9/15/2014,82,62,96
+"Jacksonville, Florida",9/16/2014,77,57,97
+"Jacksonville, Florida",9/17/2014,80,60,96
+"Jacksonville, Florida",9/18/2014,81,58,95
+"Jacksonville, Florida",9/19/2014,77,48,96
+"Jacksonville, Florida",9/20/2014,73,48,95
+"Jacksonville, Florida",9/21/2014,76,49,97
+"Jacksonville, Florida",9/22/2014,76,49,96
+"Jacksonville, Florida",9/23/2014,75,53,95
+"Jacksonville, Florida",9/24/2014,68,53,94
+"Jacksonville, Florida",9/25/2014,71,51,94
+"Jacksonville, Florida",9/26/2014,74,55,96
+"Jacksonville, Florida",9/27/2014,75,54,94
+"Jacksonville, Florida",9/28/2014,80,56,96
+"Jacksonville, Florida",9/29/2014,76,53,92
+"Jacksonville, Florida",9/30/2014,74,50,94
+"Jacksonville, Florida",10/1/2014,76,48,94
+"Jacksonville, Florida",10/2/2014,78,43,93
+"Jacksonville, Florida",10/3/2014,78,45,94
+"Jacksonville, Florida",10/4/2014,68,47,94
+"Jacksonville, Florida",10/5/2014,60,46,94
+"Jacksonville, Florida",10/6/2014,64,49,95
+"Jacksonville, Florida",10/7/2014,72,47,95
+"Jacksonville, Florida",10/8/2014,76,44,95
+"Jacksonville, Florida",10/9/2014,76,46,94
+"Jacksonville, Florida",10/10/2014,76,46,93
+"Jacksonville, Florida",10/11/2014,75,45,91
+"Jacksonville, Florida",10/12/2014,74,46,92
+"Jacksonville, Florida",10/13/2014,76,43,89
+"Jacksonville, Florida",10/14/2014,79,40,91
+"Jacksonville, Florida",10/15/2014,69,40,90
+"Jacksonville, Florida",10/16/2014,66,39,90
+"Jacksonville, Florida",10/17/2014,66,37,91
+"Jacksonville, Florida",10/18/2014,69,36,91
+"Jacksonville, Florida",10/19/2014,67,43,91
+"Jacksonville, Florida",10/20/2014,69,40,89
+"Jacksonville, Florida",10/21/2014,71,36,89
+"Jacksonville, Florida",10/22/2014,63,39,92
+"Jacksonville, Florida",10/23/2014,61,40,88
+"Jacksonville, Florida",10/24/2014,61,37,87
+"Jacksonville, Florida",10/25/2014,62,38,89
+"Jacksonville, Florida",10/26/2014,65,38,89
+"Jacksonville, Florida",10/27/2014,71,40,90
+"Jacksonville, Florida",10/28/2014,70,37,89
+"Jacksonville, Florida",10/29/2014,72,33,87
+"Jacksonville, Florida",10/30/2014,70,37,86
+"Jacksonville, Florida",10/31/2014,63,38,86
+"Jacksonville, Florida",11/1/2014,50,33,88
+"Jacksonville, Florida",11/2/2014,50,35,87
+"Jacksonville, Florida",11/3/2014,52,30,86
+"Jacksonville, Florida",11/4/2014,61,31,87
+"Jacksonville, Florida",11/5/2014,67,35,87
+"Jacksonville, Florida",11/6/2014,69,32,86
+"Jacksonville, Florida",11/7/2014,55,36,87
+"Jacksonville, Florida",11/8/2014,56,30,85
+"Jacksonville, Florida",11/9/2014,62,25,88
+"Jacksonville, Florida",11/10/2014,59,33,84
+"Jacksonville, Florida",11/11/2014,66,35,87
+"Jacksonville, Florida",11/12/2014,61,31,87
+"Jacksonville, Florida",11/13/2014,64,31,86
+"Jacksonville, Florida",11/14/2014,53,31,84
+"Jacksonville, Florida",11/15/2014,50,29,85
+"Jacksonville, Florida",11/16/2014,62,25,85
+"Jacksonville, Florida",11/17/2014,67,29,85
+"Jacksonville, Florida",11/18/2014,43,32,85
+"Jacksonville, Florida",11/19/2014,40,27,84
+"Jacksonville, Florida",11/20/2014,45,24,86
+"Jacksonville, Florida",11/21/2014,51,26,84
+"Jacksonville, Florida",11/22/2014,62,25,84
+"Jacksonville, Florida",11/23/2014,73,28,84
+"Jacksonville, Florida",11/24/2014,78,25,86
+"Jacksonville, Florida",11/25/2014,66,21,85
+"Jacksonville, Florida",11/26/2014,52,27,84
+"Jacksonville, Florida",11/27/2014,51,30,83
+"Jacksonville, Florida",11/28/2014,44,26,85
+"Jacksonville, Florida",11/29/2014,51,30,85
+"Jacksonville, Florida",11/30/2014,58,26,84
+"Jacksonville, Florida",12/1/2014,63,28,84
+"Jacksonville, Florida",12/2/2014,66,25,84
+"Jacksonville, Florida",12/3/2014,66,24,83
+"Jacksonville, Florida",12/4/2014,65,25,84
+"Jacksonville, Florida",12/5/2014,63,25,83
+"Jacksonville, Florida",12/6/2014,70,26,83
+"Jacksonville, Florida",12/7/2014,59,21,83
+"Jacksonville, Florida",12/8/2014,53,24,83
+"Jacksonville, Florida",12/9/2014,50,28,84
+"Jacksonville, Florida",12/10/2014,48,25,82
+"Jacksonville, Florida",12/11/2014,47,23,83
+"Jacksonville, Florida",12/12/2014,50,22,83
+"Jacksonville, Florida",12/13/2014,50,12,83
+"Jacksonville, Florida",12/14/2014,51,20,82
+"Jacksonville, Florida",12/15/2014,52,21,84
+"Jacksonville, Florida",12/16/2014,55,26,83
+"Jacksonville, Florida",12/17/2014,53,26,81
+"Jacksonville, Florida",12/18/2014,52,25,81
+"Jacksonville, Florida",12/19/2014,56,23,83
+"Jacksonville, Florida",12/20/2014,60,19,82
+"Jacksonville, Florida",12/21/2014,57,20,83
+"Jacksonville, Florida",12/22/2014,63,25,84
+"Jacksonville, Florida",12/23/2014,68,24,84
+"Jacksonville, Florida",12/24/2014,72,18,81
+"Jacksonville, Florida",12/25/2014,53,11,81
+"Jacksonville, Florida",12/26/2014,53,13,83
+"Jacksonville, Florida",12/27/2014,62,23,81
+"Jacksonville, Florida",12/28/2014,68,20,83
+"Jacksonville, Florida",12/29/2014,69,14,82
+"Jacksonville, Florida",12/30/2014,64,19,83
+"Jacksonville, Florida",12/31/2014,53,19,82
+"Jacksonville, Florida",1/1/2015,55,21,81
+"Jacksonville, Florida",1/2/2015,53,21,82
+"Jacksonville, Florida",1/3/2015,71,19,81
+"Jacksonville, Florida",1/4/2015,72,22,82
+"Jacksonville, Florida",1/5/2015,56,23,81
+"Jacksonville, Florida",1/6/2015,56,21,83
+"Jacksonville, Florida",1/7/2015,52,21,82
+"Jacksonville, Florida",1/8/2015,34,21,82
+"Jacksonville, Florida",1/9/2015,45,19,83
+"Jacksonville, Florida",1/10/2015,47,21,82
+"Jacksonville, Florida",1/11/2015,56,17,83
+"Jacksonville, Florida",1/12/2015,62,15,82
+"Jacksonville, Florida",1/13/2015,58,13,82
+"Jacksonville, Florida",1/14/2015,50,23,81
+"Jacksonville, Florida",1/15/2015,45,22,83
+"Jacksonville, Florida",1/16/2015,49,22,84
+"Jacksonville, Florida",1/17/2015,51,21,84
+"Jacksonville, Florida",1/18/2015,56,21,83
+"Jacksonville, Florida",1/19/2015,51,19,83
+"Jacksonville, Florida",1/20/2015,54,19,83
+"Jacksonville, Florida",1/21/2015,62,7,83
+"Jacksonville, Florida",1/22/2015,59,16,82
+"Jacksonville, Florida",1/23/2015,60,25,82
+"Jacksonville, Florida",1/24/2015,55,19,83
+"Jacksonville, Florida",1/25/2015,49,20,83
+"Jacksonville, Florida",1/26/2015,52,17,82
+"Jacksonville, Florida",1/27/2015,50,17,84
+"Jacksonville, Florida",1/28/2015,45,16,83
+"Jacksonville, Florida",1/29/2015,49,22,84
+"Jacksonville, Florida",1/30/2015,55,20,85
+"Jacksonville, Florida",1/31/2015,48,20,84
+"Jacksonville, Florida",2/1/2015,56,24,83
+"Jacksonville, Florida",2/2/2015,55,23,84
+"Jacksonville, Florida",2/3/2015,44,16,86
+"Jacksonville, Florida",2/4/2015,51,23,84
+"Jacksonville, Florida",2/5/2015,53,19,87
+"Jacksonville, Florida",2/6/2015,47,23,85
+"Jacksonville, Florida",2/7/2015,50,25,80
+"Jacksonville, Florida",2/8/2015,57,14,84
+"Jacksonville, Florida",2/9/2015,55,19,88
+"Jacksonville, Florida",2/10/2015,53,26,84
+"Jacksonville, Florida",2/11/2015,52,24,84
+"Jacksonville, Florida",2/12/2015,56,24,83
+"Jacksonville, Florida",2/13/2015,42,10,85
+"Jacksonville, Florida",2/14/2015,46,16,86
+"Jacksonville, Florida",2/15/2015,53,23,83
+"Jacksonville, Florida",2/16/2015,59,25,86
+"Jacksonville, Florida",2/17/2015,56,23,83
+"Jacksonville, Florida",2/18/2015,46,18,85
+"Jacksonville, Florida",2/19/2015,35,24,86
+"Jacksonville, Florida",2/20/2015,36,24,86
+"Jacksonville, Florida",2/21/2015,50,25,85
+"Jacksonville, Florida",2/22/2015,65,29,85
+"Jacksonville, Florida",2/23/2015,65,25,85
+"Jacksonville, Florida",2/24/2015,51,27,88
+"Jacksonville, Florida",2/25/2015,56,24,85
+"Jacksonville, Florida",2/26/2015,57,22,88
+"Jacksonville, Florida",2/27/2015,49,25,86
+"Jacksonville, Florida",2/28/2015,51,25,87
+"Jacksonville, Florida",3/1/2015,56,28,87
+"Jacksonville, Florida",3/2/2015,67,27,86
+"Jacksonville, Florida",3/3/2015,69,23,88
+"Jacksonville, Florida",3/4/2015,74,24,86
+"Jacksonville, Florida",3/5/2015,72,28,87
+"Jacksonville, Florida",3/6/2015,55,28,88
+"Jacksonville, Florida",3/7/2015,50,29,87
+"Jacksonville, Florida",3/8/2015,54,26,88
+"Jacksonville, Florida",3/9/2015,61,27,88
+"Jacksonville, Florida",3/10/2015,69,26,91
+"Jacksonville, Florida",3/11/2015,75,31,89
+"Jacksonville, Florida",3/12/2015,65,32,91
+"Jacksonville, Florida",3/13/2015,72,32,88
+"Jacksonville, Florida",3/14/2015,77,28,89
+"Jacksonville, Florida",3/15/2015,72,27,90
+"Jacksonville, Florida",3/16/2015,68,30,89
+"Jacksonville, Florida",3/17/2015,71,30,88
+"Jacksonville, Florida",3/18/2015,67,32,89
+"Jacksonville, Florida",3/19/2015,69,29,89
+"Jacksonville, Florida",3/20/2015,70,34,89
+"Jacksonville, Florida",3/21/2015,73,30,90
+"Jacksonville, Florida",3/22/2015,70,31,90
+"Jacksonville, Florida",3/23/2015,63,33,91
+"Jacksonville, Florida",3/24/2015,62,35,91
+"Jacksonville, Florida",3/25/2015,67,34,90
+"Jacksonville, Florida",3/26/2015,68,32,88
+"Jacksonville, Florida",3/27/2015,64,32,89
+"Jacksonville, Florida",3/28/2015,53,35,89
+"Jacksonville, Florida",3/29/2015,51,34,89
+"Jacksonville, Florida",3/30/2015,59,36,89
+"Jacksonville, Florida",3/31/2015,68,32,88
+"Jacksonville, Florida",4/1/2015,71,34,89
+"Jacksonville, Florida",4/2/2015,68,36,90
+"Jacksonville, Florida",4/3/2015,73,39,89
+"Jacksonville, Florida",4/4/2015,71,38,90
+"Jacksonville, Florida",4/5/2015,68,35,89
+"Jacksonville, Florida",4/6/2015,70,34,90
+"Jacksonville, Florida",4/7/2015,73,38,92
+"Jacksonville, Florida",4/8/2015,75,31,91
+"Jacksonville, Florida",4/9/2015,74,37,92
+"Jacksonville, Florida",4/10/2015,77,37,92
+"Jacksonville, Florida",4/11/2015,74,37,91
+"Jacksonville, Florida",4/12/2015,75,41,92
+"Jacksonville, Florida",4/13/2015,76,35,92
+"Jacksonville, Florida",4/14/2015,78,40,90
+"Jacksonville, Florida",4/15/2015,76,39,90
+"Jacksonville, Florida",4/16/2015,67,40,90
+"Jacksonville, Florida",4/17/2015,70,38,93
+"Jacksonville, Florida",4/18/2015,75,37,94
+"Jacksonville, Florida",4/19/2015,77,36,92
+"Jacksonville, Florida",4/20/2015,70,40,92
+"Jacksonville, Florida",4/21/2015,72,38,95
+"Jacksonville, Florida",4/22/2015,70,42,93
+"Jacksonville, Florida",4/23/2015,74,37,92
+"Jacksonville, Florida",4/24/2015,68,39,93
+"Jacksonville, Florida",4/25/2015,70,40,92
+"Jacksonville, Florida",4/26/2015,80,40,92
+"Jacksonville, Florida",4/27/2015,71,42,94
+"Jacksonville, Florida",4/28/2015,68,43,94
+"Jacksonville, Florida",4/29/2015,71,43,93
+"Jacksonville, Florida",4/30/2015,68,42,93
+"Jacksonville, Florida",5/1/2015,66,47,96
+"Jacksonville, Florida",5/2/2015,63,47,95
+"Jacksonville, Florida",5/3/2015,66,47,94
+"Jacksonville, Florida",5/4/2015,67,45,93
+"Jacksonville, Florida",5/5/2015,70,46,94
+"Jacksonville, Florida",5/6/2015,71,45,96
+"Jacksonville, Florida",5/7/2015,73,49,94
+"Jacksonville, Florida",5/8/2015,76,45,96
+"Jacksonville, Florida",5/9/2015,76,48,96
+"Jacksonville, Florida",5/10/2015,78,49,93
+"Jacksonville, Florida",5/11/2015,80,47,95
+"Jacksonville, Florida",5/12/2015,80,47,97
+"Jacksonville, Florida",5/13/2015,80,47,100
+"Jacksonville, Florida",5/14/2015,76,47,99
+"Jacksonville, Florida",5/15/2015,76,52,97
+"Jacksonville, Florida",5/16/2015,71,52,96
+"Jacksonville, Florida",5/17/2015,75,46,96
+"Jacksonville, Florida",5/18/2015,76,46,96
+"Jacksonville, Florida",5/19/2015,81,51,97
+"Jacksonville, Florida",5/20/2015,80,46,99
+"Jacksonville, Florida",5/21/2015,82,50,99
+"Jacksonville, Florida",5/22/2015,75,47,99
+"Jacksonville, Florida",5/23/2015,73,48,97
+"Jacksonville, Florida",5/24/2015,77,52,98
+"Jacksonville, Florida",5/25/2015,79,55,99
+"Jacksonville, Florida",5/26/2015,80,47,99
+"Jacksonville, Florida",5/27/2015,78,49,98
+"Jacksonville, Florida",5/28/2015,73,52,99
+"Jacksonville, Florida",5/29/2015,74,53,97
+"Jacksonville, Florida",5/30/2015,73,51,97
+"Jacksonville, Florida",5/31/2015,77,50,98
+"Jacksonville, Florida",6/1/2015,78,47,99
+"Jacksonville, Florida",6/2/2015,75,53,100
+"Jacksonville, Florida",6/3/2015,78,57,100
+"Jacksonville, Florida",6/4/2015,77,61,100
+"Jacksonville, Florida",6/5/2015,77,59,100
+"Jacksonville, Florida",6/6/2015,78,60,99
+"Jacksonville, Florida",6/7/2015,77,59,100
+"Jacksonville, Florida",6/8/2015,79,58,99
+"Jacksonville, Florida",6/9/2015,82,58,101
+"Jacksonville, Florida",6/10/2015,78,58,100
+"Jacksonville, Florida",6/11/2015,78,57,99
+"Jacksonville, Florida",6/12/2015,80,54,99
+"Jacksonville, Florida",6/13/2015,82,57,100
+"Jacksonville, Florida",6/14/2015,81,57,101
+"Jacksonville, Florida",6/15/2015,81,57,102
+"Jacksonville, Florida",6/16/2015,83,62,102
+"Jacksonville, Florida",6/17/2015,85,61,100
+"Jacksonville, Florida",6/18/2015,85,59,100
+"Jacksonville, Florida",6/19/2015,86,60,103
+"Jacksonville, Florida",6/20/2015,86,60,100
+"Jacksonville, Florida",6/21/2015,86,60,99
+"Jacksonville, Florida",6/22/2015,84,62,99
+"Jacksonville, Florida",6/23/2015,81,63,99
+"Jacksonville, Florida",6/24/2015,85,63,101
+"Jacksonville, Florida",6/25/2015,81,64,99
+"Jacksonville, Florida",6/26/2015,82,63,101
+"Jacksonville, Florida",6/27/2015,84,65,102
+"Jacksonville, Florida",6/28/2015,82,63,101
+"Jacksonville, Florida",6/29/2015,79,63,100
+"Jacksonville, Florida",6/30/2015,79,66,100
+"Chicago, Illinois",7/1/2014,76,49,103
+"Chicago, Illinois",7/2/2014,66,48,99
+"Chicago, Illinois",7/3/2014,66,50,102
+"Chicago, Illinois",7/4/2014,70,49,101
+"Chicago, Illinois",7/5/2014,71,46,103
+"Chicago, Illinois",7/6/2014,78,49,105
+"Chicago, Illinois",7/7/2014,81,48,102
+"Chicago, Illinois",7/8/2014,77,49,106
+"Chicago, Illinois",7/9/2014,73,51,100
+"Chicago, Illinois",7/10/2014,71,51,106
+"Chicago, Illinois",7/11/2014,73,51,107
+"Chicago, Illinois",7/12/2014,76,55,100
+"Chicago, Illinois",7/13/2014,79,50,106
+"Chicago, Illinois",7/14/2014,73,52,104
+"Chicago, Illinois",7/15/2014,64,49,103
+"Chicago, Illinois",7/16/2014,65,49,100
+"Chicago, Illinois",7/17/2014,68,51,100
+"Chicago, Illinois",7/18/2014,73,53,101
+"Chicago, Illinois",7/19/2014,71,55,104
+"Chicago, Illinois",7/20/2014,75,50,103
+"Chicago, Illinois",7/21/2014,78,51,108
+"Chicago, Illinois",7/22/2014,82,49,104
+"Chicago, Illinois",7/23/2014,70,51,109
+"Chicago, Illinois",7/24/2014,68,55,107
+"Chicago, Illinois",7/25/2014,69,58,105
+"Chicago, Illinois",7/26/2014,78,53,102
+"Chicago, Illinois",7/27/2014,78,51,100
+"Chicago, Illinois",7/28/2014,68,53,100
+"Chicago, Illinois",7/29/2014,71,50,101
+"Chicago, Illinois",7/30/2014,71,51,104
+"Chicago, Illinois",7/31/2014,74,50,99
+"Chicago, Illinois",8/1/2014,75,52,100
+"Chicago, Illinois",8/2/2014,74,56,102
+"Chicago, Illinois",8/3/2014,77,52,101
+"Chicago, Illinois",8/4/2014,78,52,100
+"Chicago, Illinois",8/5/2014,74,52,100
+"Chicago, Illinois",8/6/2014,73,50,101
+"Chicago, Illinois",8/7/2014,75,53,96
+"Chicago, Illinois",8/8/2014,76,52,103
+"Chicago, Illinois",8/9/2014,74,51,104
+"Chicago, Illinois",8/10/2014,77,49,99
+"Chicago, Illinois",8/11/2014,76,50,100
+"Chicago, Illinois",8/12/2014,67,50,100
+"Chicago, Illinois",8/13/2014,71,52,101
+"Chicago, Illinois",8/14/2014,67,48,99
+"Chicago, Illinois",8/15/2014,67,48,98
+"Chicago, Illinois",8/16/2014,73,49,101
+"Chicago, Illinois",8/17/2014,69,48,99
+"Chicago, Illinois",8/18/2014,76,49,99
+"Chicago, Illinois",8/19/2014,80,49,99
+"Chicago, Illinois",8/20/2014,78,47,98
+"Chicago, Illinois",8/21/2014,77,46,99
+"Chicago, Illinois",8/22/2014,81,51,103
+"Chicago, Illinois",8/23/2014,79,52,97
+"Chicago, Illinois",8/24/2014,81,48,100
+"Chicago, Illinois",8/25/2014,83,47,95
+"Chicago, Illinois",8/26/2014,79,48,97
+"Chicago, Illinois",8/27/2014,76,46,97
+"Chicago, Illinois",8/28/2014,73,46,97
+"Chicago, Illinois",8/29/2014,81,43,98
+"Chicago, Illinois",8/30/2014,80,47,96
+"Chicago, Illinois",8/31/2014,79,46,99
+"Chicago, Illinois",9/1/2014,80,45,101
+"Chicago, Illinois",9/2/2014,77,44,101
+"Chicago, Illinois",9/3/2014,76,47,97
+"Chicago, Illinois",9/4/2014,80,43,95
+"Chicago, Illinois",9/5/2014,78,48,97
+"Chicago, Illinois",9/6/2014,69,46,98
+"Chicago, Illinois",9/7/2014,69,46,101
+"Chicago, Illinois",9/8/2014,70,45,98
+"Chicago, Illinois",9/9/2014,74,47,95
+"Chicago, Illinois",9/10/2014,70,44,96
+"Chicago, Illinois",9/11/2014,55,44,95
+"Chicago, Illinois",9/12/2014,52,44,96
+"Chicago, Illinois",9/13/2014,51,40,99
+"Chicago, Illinois",9/14/2014,57,42,101
+"Chicago, Illinois",9/15/2014,58,41,102
+"Chicago, Illinois",9/16/2014,58,39,93
+"Chicago, Illinois",9/17/2014,61,39,93
+"Chicago, Illinois",9/18/2014,63,39,94
+"Chicago, Illinois",9/19/2014,67,37,93
+"Chicago, Illinois",9/20/2014,72,38,92
+"Chicago, Illinois",9/21/2014,61,40,92
+"Chicago, Illinois",9/22/2014,59,34,93
+"Chicago, Illinois",9/23/2014,63,35,93
+"Chicago, Illinois",9/24/2014,66,30,91
+"Chicago, Illinois",9/25/2014,68,30,91
+"Chicago, Illinois",9/26/2014,70,30,93
+"Chicago, Illinois",9/27/2014,70,31,91
+"Chicago, Illinois",9/28/2014,69,29,92
+"Chicago, Illinois",9/29/2014,71,33,99
+"Chicago, Illinois",9/30/2014,56,34,92
+"Chicago, Illinois",10/1/2014,63,32,92
+"Chicago, Illinois",10/2/2014,71,28,91
+"Chicago, Illinois",10/3/2014,57,29,91
+"Chicago, Illinois",10/4/2014,43,34,90
+"Chicago, Illinois",10/5/2014,49,31,89
+"Chicago, Illinois",10/6/2014,56,28,94
+"Chicago, Illinois",10/7/2014,59,31,88
+"Chicago, Illinois",10/8/2014,58,30,88
+"Chicago, Illinois",10/9/2014,57,32,87
+"Chicago, Illinois",10/10/2014,52,27,87
+"Chicago, Illinois",10/11/2014,50,29,88
+"Chicago, Illinois",10/12/2014,55,30,86
+"Chicago, Illinois",10/13/2014,65,30,88
+"Chicago, Illinois",10/14/2014,61,28,89
+"Chicago, Illinois",10/15/2014,56,29,88
+"Chicago, Illinois",10/16/2014,56,30,87
+"Chicago, Illinois",10/17/2014,56,26,86
+"Chicago, Illinois",10/18/2014,46,20,87
+"Chicago, Illinois",10/19/2014,47,24,84
+"Chicago, Illinois",10/20/2014,58,20,86
+"Chicago, Illinois",10/21/2014,52,26,87
+"Chicago, Illinois",10/22/2014,50,24,87
+"Chicago, Illinois",10/23/2014,52,25,85
+"Chicago, Illinois",10/24/2014,61,20,83
+"Chicago, Illinois",10/25/2014,64,25,79
+"Chicago, Illinois",10/26/2014,55,22,84
+"Chicago, Illinois",10/27/2014,67,24,82
+"Chicago, Illinois",10/28/2014,57,25,81
+"Chicago, Illinois",10/29/2014,45,22,79
+"Chicago, Illinois",10/30/2014,45,25,85
+"Chicago, Illinois",10/31/2014,42,27,84
+"Chicago, Illinois",11/1/2014,39,22,81
+"Chicago, Illinois",11/2/2014,41,14,78
+"Chicago, Illinois",11/3/2014,55,11,76
+"Chicago, Illinois",11/4/2014,53,15,74
+"Chicago, Illinois",11/5/2014,51,11,79
+"Chicago, Illinois",11/6/2014,46,19,75
+"Chicago, Illinois",11/7/2014,41,16,74
+"Chicago, Illinois",11/8/2014,44,14,74
+"Chicago, Illinois",11/9/2014,45,16,75
+"Chicago, Illinois",11/10/2014,55,17,71
+"Chicago, Illinois",11/11/2014,47,15,74
+"Chicago, Illinois",11/12/2014,30,10,70
+"Chicago, Illinois",11/13/2014,29,7,74
+"Chicago, Illinois",11/14/2014,27,12,78
+"Chicago, Illinois",11/15/2014,27,8,72
+"Chicago, Illinois",11/16/2014,29,5,73
+"Chicago, Illinois",11/17/2014,19,3,74
+"Chicago, Illinois",11/18/2014,17,12,72
+"Chicago, Illinois",11/19/2014,26,17,77
+"Chicago, Illinois",11/20/2014,24,14,69
+"Chicago, Illinois",11/21/2014,25,7,66
+"Chicago, Illinois",11/22/2014,44,2,67
+"Chicago, Illinois",11/23/2014,52,-1,70
+"Chicago, Illinois",11/24/2014,39,-2,69
+"Chicago, Illinois",11/25/2014,26,0,61
+"Chicago, Illinois",11/26/2014,27,2,68
+"Chicago, Illinois",11/27/2014,25,0,70
+"Chicago, Illinois",11/28/2014,28,-3,69
+"Chicago, Illinois",11/29/2014,44,-1,69
+"Chicago, Illinois",11/30/2014,43,-1,66
+"Chicago, Illinois",12/1/2014,25,5,68
+"Chicago, Illinois",12/2/2014,28,-1,69
+"Chicago, Illinois",12/3/2014,33,-8,72
+"Chicago, Illinois",12/4/2014,31,3,68
+"Chicago, Illinois",12/5/2014,38,7,68
+"Chicago, Illinois",12/6/2014,39,0,65
+"Chicago, Illinois",12/7/2014,35,-2,61
+"Chicago, Illinois",12/8/2014,37,0,64
+"Chicago, Illinois",12/9/2014,37,-8,61
+"Chicago, Illinois",12/10/2014,34,-8,60
+"Chicago, Illinois",12/11/2014,30,-5,61
+"Chicago, Illinois",12/12/2014,32,-7,62
+"Chicago, Illinois",12/13/2014,43,-3,67
+"Chicago, Illinois",12/14/2014,50,-4,66
+"Chicago, Illinois",12/15/2014,46,-8,64
+"Chicago, Illinois",12/16/2014,40,-12,63
+"Chicago, Illinois",12/17/2014,29,-7,60
+"Chicago, Illinois",12/18/2014,28,-9,59
+"Chicago, Illinois",12/19/2014,32,-12,56
+"Chicago, Illinois",12/20/2014,34,-9,59
+"Chicago, Illinois",12/21/2014,36,-13,62
+"Chicago, Illinois",12/22/2014,38,-12,57
+"Chicago, Illinois",12/23/2014,46,-17,60
+"Chicago, Illinois",12/24/2014,41,-20,59
+"Chicago, Illinois",12/25/2014,40,-13,64
+"Chicago, Illinois",12/26/2014,45,-9,55
+"Chicago, Illinois",12/27/2014,41,-12,61
+"Chicago, Illinois",12/28/2014,31,-3,67
+"Chicago, Illinois",12/29/2014,30,-8,64
+"Chicago, Illinois",12/30/2014,19,-8,60
+"Chicago, Illinois",12/31/2014,13,-10,60
+"Chicago, Illinois",1/1/2015,25,-10,52
+"Chicago, Illinois",1/2/2015,28,-13,61
+"Chicago, Illinois",1/3/2015,34,-12,60
+"Chicago, Illinois",1/4/2015,21,-8,64
+"Chicago, Illinois",1/5/2015,5,-15,56
+"Chicago, Illinois",1/6/2015,9,-15,60
+"Chicago, Illinois",1/7/2015,2,-14,65
+"Chicago, Illinois",1/8/2015,7,-12,63
+"Chicago, Illinois",1/9/2015,10,-17,57
+"Chicago, Illinois",1/10/2015,13,-22,60
+"Chicago, Illinois",1/11/2015,30,-11,54
+"Chicago, Illinois",1/12/2015,25,-9,62
+"Chicago, Illinois",1/13/2015,18,-10,56
+"Chicago, Illinois",1/14/2015,13,-14,56
+"Chicago, Illinois",1/15/2015,27,-19,60
+"Chicago, Illinois",1/16/2015,29,-19,56
+"Chicago, Illinois",1/17/2015,37,-17,58
+"Chicago, Illinois",1/18/2015,37,-20,61
+"Chicago, Illinois",1/19/2015,35,-21,57
+"Chicago, Illinois",1/20/2015,37,-25,53
+"Chicago, Illinois",1/21/2015,34,-17,57
+"Chicago, Illinois",1/22/2015,32,-17,58
+"Chicago, Illinois",1/23/2015,32,-19,59
+"Chicago, Illinois",1/24/2015,39,-16,65
+"Chicago, Illinois",1/25/2015,32,-10,67
+"Chicago, Illinois",1/26/2015,25,-10,62
+"Chicago, Illinois",1/27/2015,29,-10,61
+"Chicago, Illinois",1/28/2015,30,-13,55
+"Chicago, Illinois",1/29/2015,35,-16,61
+"Chicago, Illinois",1/30/2015,28,-15,55
+"Chicago, Illinois",1/31/2015,31,-9,67
+"Chicago, Illinois",2/1/2015,27,-9,56
+"Chicago, Illinois",2/2/2015,16,-15,51
+"Chicago, Illinois",2/3/2015,19,-17,60
+"Chicago, Illinois",2/4/2015,21,-12,54
+"Chicago, Illinois",2/5/2015,10,-17,56
+"Chicago, Illinois",2/6/2015,24,-12,56
+"Chicago, Illinois",2/7/2015,35,-5,59
+"Chicago, Illinois",2/8/2015,37,-12,61
+"Chicago, Illinois",2/9/2015,29,-20,57
+"Chicago, Illinois",2/10/2015,29,-12,62
+"Chicago, Illinois",2/11/2015,30,-8,71
+"Chicago, Illinois",2/12/2015,16,-10,61
+"Chicago, Illinois",2/13/2015,18,-5,63
+"Chicago, Illinois",2/14/2015,17,-5,62
+"Chicago, Illinois",2/15/2015,9,-6,69
+"Chicago, Illinois",2/16/2015,14,-7,53
+"Chicago, Illinois",2/17/2015,17,-10,58
+"Chicago, Illinois",2/18/2015,6,-16,62
+"Chicago, Illinois",2/19/2015,1,-8,65
+"Chicago, Illinois",2/20/2015,10,-9,65
+"Chicago, Illinois",2/21/2015,26,-6,66
+"Chicago, Illinois",2/22/2015,19,-7,63
+"Chicago, Illinois",2/23/2015,8,0,66
+"Chicago, Illinois",2/24/2015,19,-5,64
+"Chicago, Illinois",2/25/2015,22,-5,73
+"Chicago, Illinois",2/26/2015,15,-1,64
+"Chicago, Illinois",2/27/2015,9,-6,75
+"Chicago, Illinois",2/28/2015,12,1,59
+"Chicago, Illinois",3/1/2015,23,-5,71
+"Chicago, Illinois",3/2/2015,25,-4,71
+"Chicago, Illinois",3/3/2015,32,-6,80
+"Chicago, Illinois",3/4/2015,24,-4,74
+"Chicago, Illinois",3/5/2015,14,0,76
+"Chicago, Illinois",3/6/2015,17,2,71
+"Chicago, Illinois",3/7/2015,36,-2,79
+"Chicago, Illinois",3/8/2015,37,-7,79
+"Chicago, Illinois",3/9/2015,40,3,69
+"Chicago, Illinois",3/10/2015,46,5,70
+"Chicago, Illinois",3/11/2015,45,3,76
+"Chicago, Illinois",3/12/2015,46,1,81
+"Chicago, Illinois",3/13/2015,53,11,74
+"Chicago, Illinois",3/14/2015,51,8,81
+"Chicago, Illinois",3/15/2015,49,12,81
+"Chicago, Illinois",3/16/2015,59,5,81
+"Chicago, Illinois",3/17/2015,38,0,80
+"Chicago, Illinois",3/18/2015,40,3,81
+"Chicago, Illinois",3/19/2015,46,11,79
+"Chicago, Illinois",3/20/2015,46,8,85
+"Chicago, Illinois",3/21/2015,43,12,86
+"Chicago, Illinois",3/22/2015,34,6,84
+"Chicago, Illinois",3/23/2015,31,6,79
+"Chicago, Illinois",3/24/2015,33,5,79
+"Chicago, Illinois",3/25/2015,41,10,78
+"Chicago, Illinois",3/26/2015,40,11,79
+"Chicago, Illinois",3/27/2015,30,13,82
+"Chicago, Illinois",3/28/2015,29,9,78
+"Chicago, Illinois",3/29/2015,40,17,86
+"Chicago, Illinois",3/30/2015,51,12,83
+"Chicago, Illinois",3/31/2015,49,12,85
+"Chicago, Illinois",4/1/2015,58,24,82
+"Chicago, Illinois",4/2/2015,59,22,82
+"Chicago, Illinois",4/3/2015,45,19,81
+"Chicago, Illinois",4/4/2015,46,16,80
+"Chicago, Illinois",4/5/2015,58,18,85
+"Chicago, Illinois",4/6/2015,53,16,84
+"Chicago, Illinois",4/7/2015,45,10,83
+"Chicago, Illinois",4/8/2015,49,20,82
+"Chicago, Illinois",4/9/2015,60,21,78
+"Chicago, Illinois",4/10/2015,54,22,91
+"Chicago, Illinois",4/11/2015,52,25,91
+"Chicago, Illinois",4/12/2015,59,21,86
+"Chicago, Illinois",4/13/2015,61,21,83
+"Chicago, Illinois",4/14/2015,57,23,85
+"Chicago, Illinois",4/15/2015,56,21,89
+"Chicago, Illinois",4/16/2015,56,26,88
+"Chicago, Illinois",4/17/2015,65,29,88
+"Chicago, Illinois",4/18/2015,59,25,89
+"Chicago, Illinois",4/19/2015,60,24,86
+"Chicago, Illinois",4/20/2015,50,27,87
+"Chicago, Illinois",4/21/2015,50,28,86
+"Chicago, Illinois",4/22/2015,43,25,91
+"Chicago, Illinois",4/23/2015,45,28,88
+"Chicago, Illinois",4/24/2015,48,29,89
+"Chicago, Illinois",4/25/2015,45,27,89
+"Chicago, Illinois",4/26/2015,48,29,91
+"Chicago, Illinois",4/27/2015,50,28,89
+"Chicago, Illinois",4/28/2015,49,30,84
+"Chicago, Illinois",4/29/2015,53,31,89
+"Chicago, Illinois",4/30/2015,47,31,92
+"Chicago, Illinois",5/1/2015,53,30,90
+"Chicago, Illinois",5/2/2015,66,30,91
+"Chicago, Illinois",5/3/2015,71,32,92
+"Chicago, Illinois",5/4/2015,66,37,82
+"Chicago, Illinois",5/5/2015,56,34,94
+"Chicago, Illinois",5/6/2015,67,34,93
+"Chicago, Illinois",5/7/2015,72,32,89
+"Chicago, Illinois",5/8/2015,75,33,93
+"Chicago, Illinois",5/9/2015,58,31,96
+"Chicago, Illinois",5/10/2015,53,29,91
+"Chicago, Illinois",5/11/2015,61,32,89
+"Chicago, Illinois",5/12/2015,53,28,92
+"Chicago, Illinois",5/13/2015,49,30,90
+"Chicago, Illinois",5/14/2015,58,37,92
+"Chicago, Illinois",5/15/2015,70,34,91
+"Chicago, Illinois",5/16/2015,75,35,94
+"Chicago, Illinois",5/17/2015,77,36,94
+"Chicago, Illinois",5/18/2015,66,34,93
+"Chicago, Illinois",5/19/2015,49,37,95
+"Chicago, Illinois",5/20/2015,47,36,95
+"Chicago, Illinois",5/21/2015,59,34,94
+"Chicago, Illinois",5/22/2015,59,40,93
+"Chicago, Illinois",5/23/2015,68,35,92
+"Chicago, Illinois",5/24/2015,69,36,93
+"Chicago, Illinois",5/25/2015,75,35,90
+"Chicago, Illinois",5/26/2015,73,34,93
+"Chicago, Illinois",5/27/2015,71,35,97
+"Chicago, Illinois",5/28/2015,72,40,94
+"Chicago, Illinois",5/29/2015,78,36,95
+"Chicago, Illinois",5/30/2015,59,36,95
+"Chicago, Illinois",5/31/2015,51,41,102
+"Chicago, Illinois",6/1/2015,55,39,107
+"Chicago, Illinois",6/2/2015,58,44,92
+"Chicago, Illinois",6/3/2015,67,37,98
+"Chicago, Illinois",6/4/2015,72,35,97
+"Chicago, Illinois",6/5/2015,65,37,98
+"Chicago, Illinois",6/6/2015,64,44,97
+"Chicago, Illinois",6/7/2015,72,45,101
+"Chicago, Illinois",6/8/2015,75,45,97
+"Chicago, Illinois",6/9/2015,74,42,96
+"Chicago, Illinois",6/10/2015,83,41,101
+"Chicago, Illinois",6/11/2015,72,41,100
+"Chicago, Illinois",6/12/2015,66,48,97
+"Chicago, Illinois",6/13/2015,73,44,95
+"Chicago, Illinois",6/14/2015,78,40,99
+"Chicago, Illinois",6/15/2015,77,45,95
+"Chicago, Illinois",6/16/2015,67,44,95
+"Chicago, Illinois",6/17/2015,65,42,96
+"Chicago, Illinois",6/18/2015,71,48,98
+"Chicago, Illinois",6/19/2015,63,44,102
+"Chicago, Illinois",6/20/2015,70,45,104
+"Chicago, Illinois",6/21/2015,79,45,101
+"Chicago, Illinois",6/22/2015,79,46,98
+"Chicago, Illinois",6/23/2015,74,46,99
+"Chicago, Illinois",6/24/2015,73,48,99
+"Chicago, Illinois",6/25/2015,74,46,104
+"Chicago, Illinois",6/26/2015,66,52,98
+"Chicago, Illinois",6/27/2015,68,50,102
+"Chicago, Illinois",6/28/2015,70,49,104
+"Chicago, Illinois",6/29/2015,71,50,97
+"Chicago, Illinois",6/30/2015,71,45,101
+"Philadelphia, Pennsylvania",7/1/2014,83,52,102
+"Philadelphia, Pennsylvania",7/2/2014,86,52,103
+"Philadelphia, Pennsylvania",7/3/2014,83,54,104
+"Philadelphia, Pennsylvania",7/4/2014,73,52,103
+"Philadelphia, Pennsylvania",7/5/2014,74,55,100
+"Philadelphia, Pennsylvania",7/6/2014,75,52,102
+"Philadelphia, Pennsylvania",7/7/2014,84,55,103
+"Philadelphia, Pennsylvania",7/8/2014,84,53,100
+"Philadelphia, Pennsylvania",7/9/2014,80,53,103
+"Philadelphia, Pennsylvania",7/10/2014,81,53,104
+"Philadelphia, Pennsylvania",7/11/2014,80,55,100
+"Philadelphia, Pennsylvania",7/12/2014,80,55,97
+"Philadelphia, Pennsylvania",7/13/2014,82,57,98
+"Philadelphia, Pennsylvania",7/14/2014,82,52,101
+"Philadelphia, Pennsylvania",7/15/2014,82,56,103
+"Philadelphia, Pennsylvania",7/16/2014,78,55,102
+"Philadelphia, Pennsylvania",7/17/2014,75,56,102
+"Philadelphia, Pennsylvania",7/18/2014,75,57,100
+"Philadelphia, Pennsylvania",7/19/2014,75,58,100
+"Philadelphia, Pennsylvania",7/20/2014,76,57,99
+"Philadelphia, Pennsylvania",7/21/2014,76,51,103
+"Philadelphia, Pennsylvania",7/22/2014,79,56,103
+"Philadelphia, Pennsylvania",7/23/2014,83,58,101
+"Philadelphia, Pennsylvania",7/24/2014,77,57,98
+"Philadelphia, Pennsylvania",7/25/2014,74,56,96
+"Philadelphia, Pennsylvania",7/26/2014,75,56,101
+"Philadelphia, Pennsylvania",7/27/2014,81,53,100
+"Philadelphia, Pennsylvania",7/28/2014,77,53,100
+"Philadelphia, Pennsylvania",7/29/2014,70,59,98
+"Philadelphia, Pennsylvania",7/30/2014,71,58,98
+"Philadelphia, Pennsylvania",7/31/2014,76,57,102
+"Philadelphia, Pennsylvania",8/1/2014,77,56,99
+"Philadelphia, Pennsylvania",8/2/2014,73,58,99
+"Philadelphia, Pennsylvania",8/3/2014,72,56,98
+"Philadelphia, Pennsylvania",8/4/2014,78,52,98
+"Philadelphia, Pennsylvania",8/5/2014,80,52,98
+"Philadelphia, Pennsylvania",8/6/2014,76,53,103
+"Philadelphia, Pennsylvania",8/7/2014,75,54,106
+"Philadelphia, Pennsylvania",8/8/2014,73,55,100
+"Philadelphia, Pennsylvania",8/9/2014,77,54,101
+"Philadelphia, Pennsylvania",8/10/2014,78,54,98
+"Philadelphia, Pennsylvania",8/11/2014,76,55,101
+"Philadelphia, Pennsylvania",8/12/2014,74,53,99
+"Philadelphia, Pennsylvania",8/13/2014,77,51,99
+"Philadelphia, Pennsylvania",8/14/2014,71,50,99
+"Philadelphia, Pennsylvania",8/15/2014,69,50,98
+"Philadelphia, Pennsylvania",8/16/2014,71,53,98
+"Philadelphia, Pennsylvania",8/17/2014,75,50,96
+"Philadelphia, Pennsylvania",8/18/2014,73,52,97
+"Philadelphia, Pennsylvania",8/19/2014,77,51,94
+"Philadelphia, Pennsylvania",8/20/2014,79,52,99
+"Philadelphia, Pennsylvania",8/21/2014,76,54,96
+"Philadelphia, Pennsylvania",8/22/2014,74,52,97
+"Philadelphia, Pennsylvania",8/23/2014,69,53,94
+"Philadelphia, Pennsylvania",8/24/2014,74,50,93
+"Philadelphia, Pennsylvania",8/25/2014,75,47,97
+"Philadelphia, Pennsylvania",8/26/2014,80,51,100
+"Philadelphia, Pennsylvania",8/27/2014,78,51,98
+"Philadelphia, Pennsylvania",8/28/2014,74,49,99
+"Philadelphia, Pennsylvania",8/29/2014,71,44,98
+"Philadelphia, Pennsylvania",8/30/2014,71,47,100
+"Philadelphia, Pennsylvania",8/31/2014,83,45,101
+"Philadelphia, Pennsylvania",9/1/2014,82,49,97
+"Philadelphia, Pennsylvania",9/2/2014,84,47,100
+"Philadelphia, Pennsylvania",9/3/2014,78,51,100
+"Philadelphia, Pennsylvania",9/4/2014,78,52,93
+"Philadelphia, Pennsylvania",9/5/2014,81,53,92
+"Philadelphia, Pennsylvania",9/6/2014,83,48,95
+"Philadelphia, Pennsylvania",9/7/2014,75,47,102
+"Philadelphia, Pennsylvania",9/8/2014,71,45,96
+"Philadelphia, Pennsylvania",9/9/2014,72,49,94
+"Philadelphia, Pennsylvania",9/10/2014,75,45,97
+"Philadelphia, Pennsylvania",9/11/2014,76,43,98
+"Philadelphia, Pennsylvania",9/12/2014,71,45,95
+"Philadelphia, Pennsylvania",9/13/2014,66,44,95
+"Philadelphia, Pennsylvania",9/14/2014,61,44,92
+"Philadelphia, Pennsylvania",9/15/2014,63,45,95
+"Philadelphia, Pennsylvania",9/16/2014,67,45,94
+"Philadelphia, Pennsylvania",9/17/2014,66,44,94
+"Philadelphia, Pennsylvania",9/18/2014,65,42,90
+"Philadelphia, Pennsylvania",9/19/2014,65,43,92
+"Philadelphia, Pennsylvania",9/20/2014,68,45,90
+"Philadelphia, Pennsylvania",9/21/2014,72,38,97
+"Philadelphia, Pennsylvania",9/22/2014,65,39,97
+"Philadelphia, Pennsylvania",9/23/2014,61,40,97
+"Philadelphia, Pennsylvania",9/24/2014,64,40,95
+"Philadelphia, Pennsylvania",9/25/2014,62,35,92
+"Philadelphia, Pennsylvania",9/26/2014,67,38,92
+"Philadelphia, Pennsylvania",9/27/2014,72,36,91
+"Philadelphia, Pennsylvania",9/28/2014,73,37,91
+"Philadelphia, Pennsylvania",9/29/2014,70,37,89
+"Philadelphia, Pennsylvania",9/30/2014,71,38,88
+"Philadelphia, Pennsylvania",10/1/2014,68,34,89
+"Philadelphia, Pennsylvania",10/2/2014,68,39,87
+"Philadelphia, Pennsylvania",10/3/2014,66,33,90
+"Philadelphia, Pennsylvania",10/4/2014,60,34,88
+"Philadelphia, Pennsylvania",10/5/2014,52,31,96
+"Philadelphia, Pennsylvania",10/6/2014,60,32,95
+"Philadelphia, Pennsylvania",10/7/2014,67,37,93
+"Philadelphia, Pennsylvania",10/8/2014,66,32,89
+"Philadelphia, Pennsylvania",10/9/2014,61,35,86
+"Philadelphia, Pennsylvania",10/10/2014,57,33,90
+"Philadelphia, Pennsylvania",10/11/2014,54,28,86
+"Philadelphia, Pennsylvania",10/12/2014,55,28,88
+"Philadelphia, Pennsylvania",10/13/2014,61,32,87
+"Philadelphia, Pennsylvania",10/14/2014,72,30,88
+"Philadelphia, Pennsylvania",10/15/2014,72,32,87
+"Philadelphia, Pennsylvania",10/16/2014,66,31,88
+"Philadelphia, Pennsylvania",10/17/2014,65,34,89
+"Philadelphia, Pennsylvania",10/18/2014,63,32,85
+"Philadelphia, Pennsylvania",10/19/2014,51,29,80
+"Philadelphia, Pennsylvania",10/20/2014,51,27,80
+"Philadelphia, Pennsylvania",10/21/2014,61,28,86
+"Philadelphia, Pennsylvania",10/22/2014,55,26,83
+"Philadelphia, Pennsylvania",10/23/2014,54,31,87
+"Philadelphia, Pennsylvania",10/24/2014,62,25,83
+"Philadelphia, Pennsylvania",10/25/2014,58,25,76
+"Philadelphia, Pennsylvania",10/26/2014,59,29,78
+"Philadelphia, Pennsylvania",10/27/2014,57,29,80
+"Philadelphia, Pennsylvania",10/28/2014,63,28,85
+"Philadelphia, Pennsylvania",10/29/2014,60,30,79
+"Philadelphia, Pennsylvania",10/30/2014,53,27,81
+"Philadelphia, Pennsylvania",10/31/2014,47,26,82
+"Philadelphia, Pennsylvania",11/1/2014,49,30,84
+"Philadelphia, Pennsylvania",11/2/2014,46,27,81
+"Philadelphia, Pennsylvania",11/3/2014,48,28,80
+"Philadelphia, Pennsylvania",11/4/2014,60,26,81
+"Philadelphia, Pennsylvania",11/5/2014,61,26,80
+"Philadelphia, Pennsylvania",11/6/2014,53,26,79
+"Philadelphia, Pennsylvania",11/7/2014,46,20,76
+"Philadelphia, Pennsylvania",11/8/2014,42,25,78
+"Philadelphia, Pennsylvania",11/9/2014,50,23,78
+"Philadelphia, Pennsylvania",11/10/2014,50,23,73
+"Philadelphia, Pennsylvania",11/11/2014,57,21,74
+"Philadelphia, Pennsylvania",11/12/2014,58,26,75
+"Philadelphia, Pennsylvania",11/13/2014,41,24,74
+"Philadelphia, Pennsylvania",11/14/2014,39,19,76
+"Philadelphia, Pennsylvania",11/15/2014,38,19,81
+"Philadelphia, Pennsylvania",11/16/2014,39,20,76
+"Philadelphia, Pennsylvania",11/17/2014,46,21,72
+"Philadelphia, Pennsylvania",11/18/2014,34,20,75
+"Philadelphia, Pennsylvania",11/19/2014,28,20,75
+"Philadelphia, Pennsylvania",11/20/2014,41,21,76
+"Philadelphia, Pennsylvania",11/21/2014,32,19,74
+"Philadelphia, Pennsylvania",11/22/2014,35,14,73
+"Philadelphia, Pennsylvania",11/23/2014,48,10,72
+"Philadelphia, Pennsylvania",11/24/2014,64,16,72
+"Philadelphia, Pennsylvania",11/25/2014,58,20,73
+"Philadelphia, Pennsylvania",11/26/2014,42,18,70
+"Philadelphia, Pennsylvania",11/27/2014,36,16,73
+"Philadelphia, Pennsylvania",11/28/2014,34,17,71
+"Philadelphia, Pennsylvania",11/29/2014,36,15,70
+"Philadelphia, Pennsylvania",11/30/2014,51,8,73
+"Philadelphia, Pennsylvania",12/1/2014,54,11,72
+"Philadelphia, Pennsylvania",12/2/2014,41,11,66
+"Philadelphia, Pennsylvania",12/3/2014,44,9,68
+"Philadelphia, Pennsylvania",12/4/2014,39,12,73
+"Philadelphia, Pennsylvania",12/5/2014,41,13,71
+"Philadelphia, Pennsylvania",12/6/2014,46,15,72
+"Philadelphia, Pennsylvania",12/7/2014,40,15,73
+"Philadelphia, Pennsylvania",12/8/2014,32,14,67
+"Philadelphia, Pennsylvania",12/9/2014,41,6,70
+"Philadelphia, Pennsylvania",12/10/2014,40,4,71
+"Philadelphia, Pennsylvania",12/11/2014,36,8,65
+"Philadelphia, Pennsylvania",12/12/2014,38,8,65
+"Philadelphia, Pennsylvania",12/13/2014,39,8,65
+"Philadelphia, Pennsylvania",12/14/2014,42,10,69
+"Philadelphia, Pennsylvania",12/15/2014,42,7,66
+"Philadelphia, Pennsylvania",12/16/2014,43,9,68
+"Philadelphia, Pennsylvania",12/17/2014,46,7,65
+"Philadelphia, Pennsylvania",12/18/2014,38,4,70
+"Philadelphia, Pennsylvania",12/19/2014,38,4,65
+"Philadelphia, Pennsylvania",12/20/2014,34,1,64
+"Philadelphia, Pennsylvania",12/21/2014,35,1,67
+"Philadelphia, Pennsylvania",12/22/2014,36,6,68
+"Philadelphia, Pennsylvania",12/23/2014,48,7,66
+"Philadelphia, Pennsylvania",12/24/2014,56,3,64
+"Philadelphia, Pennsylvania",12/25/2014,52,1,68
+"Philadelphia, Pennsylvania",12/26/2014,42,3,68
+"Philadelphia, Pennsylvania",12/27/2014,45,8,64
+"Philadelphia, Pennsylvania",12/28/2014,48,9,66
+"Philadelphia, Pennsylvania",12/29/2014,43,-1,72
+"Philadelphia, Pennsylvania",12/30/2014,33,-5,65
+"Philadelphia, Pennsylvania",12/31/2014,29,0,66
+"Philadelphia, Pennsylvania",1/1/2015,35,4,64
+"Philadelphia, Pennsylvania",1/2/2015,37,7,67
+"Philadelphia, Pennsylvania",1/3/2015,36,-3,63
+"Philadelphia, Pennsylvania",1/4/2015,50,2,68
+"Philadelphia, Pennsylvania",1/5/2015,37,-2,66
+"Philadelphia, Pennsylvania",1/6/2015,20,4,73
+"Philadelphia, Pennsylvania",1/7/2015,19,4,65
+"Philadelphia, Pennsylvania",1/8/2015,15,2,69
+"Philadelphia, Pennsylvania",1/9/2015,29,1,69
+"Philadelphia, Pennsylvania",1/10/2015,21,-5,63
+"Philadelphia, Pennsylvania",1/11/2015,28,1,66
+"Philadelphia, Pennsylvania",1/12/2015,36,1,72
+"Philadelphia, Pennsylvania",1/13/2015,30,0,70
+"Philadelphia, Pennsylvania",1/14/2015,26,0,73
+"Philadelphia, Pennsylvania",1/15/2015,33,2,71
+"Philadelphia, Pennsylvania",1/16/2015,34,0,62
+"Philadelphia, Pennsylvania",1/17/2015,26,-7,63
+"Philadelphia, Pennsylvania",1/18/2015,34,-4,64
+"Philadelphia, Pennsylvania",1/19/2015,38,-5,65
+"Philadelphia, Pennsylvania",1/20/2015,38,-3,65
+"Philadelphia, Pennsylvania",1/21/2015,31,-6,62
+"Philadelphia, Pennsylvania",1/22/2015,36,-7,70
+"Philadelphia, Pennsylvania",1/23/2015,34,-2,71
+"Philadelphia, Pennsylvania",1/24/2015,36,0,69
+"Philadelphia, Pennsylvania",1/25/2015,40,-2,66
+"Philadelphia, Pennsylvania",1/26/2015,31,4,74
+"Philadelphia, Pennsylvania",1/27/2015,28,4,69
+"Philadelphia, Pennsylvania",1/28/2015,28,3,67
+"Philadelphia, Pennsylvania",1/29/2015,28,-5,72
+"Philadelphia, Pennsylvania",1/30/2015,31,8,70
+"Philadelphia, Pennsylvania",1/31/2015,22,3,65
+"Philadelphia, Pennsylvania",2/1/2015,30,2,70
+"Philadelphia, Pennsylvania",2/2/2015,32,-4,61
+"Philadelphia, Pennsylvania",2/3/2015,25,4,62
+"Philadelphia, Pennsylvania",2/4/2015,35,2,69
+"Philadelphia, Pennsylvania",2/5/2015,29,-2,69
+"Philadelphia, Pennsylvania",2/6/2015,23,-3,68
+"Philadelphia, Pennsylvania",2/7/2015,33,5,67
+"Philadelphia, Pennsylvania",2/8/2015,42,-2,63
+"Philadelphia, Pennsylvania",2/9/2015,33,-11,64
+"Philadelphia, Pennsylvania",2/10/2015,35,-6,65
+"Philadelphia, Pennsylvania",2/11/2015,33,-6,69
+"Philadelphia, Pennsylvania",2/12/2015,31,2,70
+"Philadelphia, Pennsylvania",2/13/2015,17,3,66
+"Philadelphia, Pennsylvania",2/14/2015,25,2,67
+"Philadelphia, Pennsylvania",2/15/2015,15,3,74
+"Philadelphia, Pennsylvania",2/16/2015,10,2,73
+"Philadelphia, Pennsylvania",2/17/2015,21,-2,68
+"Philadelphia, Pennsylvania",2/18/2015,22,0,69
+"Philadelphia, Pennsylvania",2/19/2015,16,3,68
+"Philadelphia, Pennsylvania",2/20/2015,10,1,70
+"Philadelphia, Pennsylvania",2/21/2015,22,6,72
+"Philadelphia, Pennsylvania",2/22/2015,40,7,68
+"Philadelphia, Pennsylvania",2/23/2015,25,6,75
+"Philadelphia, Pennsylvania",2/24/2015,16,2,74
+"Philadelphia, Pennsylvania",2/25/2015,27,4,79
+"Philadelphia, Pennsylvania",2/26/2015,29,10,69
+"Philadelphia, Pennsylvania",2/27/2015,27,6,74
+"Philadelphia, Pennsylvania",2/28/2015,24,9,68
+"Philadelphia, Pennsylvania",3/1/2015,27,9,76
+"Philadelphia, Pennsylvania",3/2/2015,35,8,77
+"Philadelphia, Pennsylvania",3/3/2015,30,10,73
+"Philadelphia, Pennsylvania",3/4/2015,38,7,74
+"Philadelphia, Pennsylvania",3/5/2015,30,5,79
+"Philadelphia, Pennsylvania",3/6/2015,19,10,71
+"Philadelphia, Pennsylvania",3/7/2015,26,9,74
+"Philadelphia, Pennsylvania",3/8/2015,38,12,80
+"Philadelphia, Pennsylvania",3/9/2015,45,12,73
+"Philadelphia, Pennsylvania",3/10/2015,46,7,76
+"Philadelphia, Pennsylvania",3/11/2015,53,12,72
+"Philadelphia, Pennsylvania",3/12/2015,45,12,83
+"Philadelphia, Pennsylvania",3/13/2015,40,8,84
+"Philadelphia, Pennsylvania",3/14/2015,45,12,85
+"Philadelphia, Pennsylvania",3/15/2015,44,11,81
+"Philadelphia, Pennsylvania",3/16/2015,44,16,82
+"Philadelphia, Pennsylvania",3/17/2015,53,10,86
+"Philadelphia, Pennsylvania",3/18/2015,39,10,78
+"Philadelphia, Pennsylvania",3/19/2015,37,9,78
+"Philadelphia, Pennsylvania",3/20/2015,35,8,83
+"Philadelphia, Pennsylvania",3/21/2015,42,6,85
+"Philadelphia, Pennsylvania",3/22/2015,41,11,80
+"Philadelphia, Pennsylvania",3/23/2015,35,14,80
+"Philadelphia, Pennsylvania",3/24/2015,36,15,76
+"Philadelphia, Pennsylvania",3/25/2015,38,16,82
+"Philadelphia, Pennsylvania",3/26/2015,53,21,80
+"Philadelphia, Pennsylvania",3/27/2015,44,21,83
+"Philadelphia, Pennsylvania",3/28/2015,34,18,83
+"Philadelphia, Pennsylvania",3/29/2015,36,14,87
+"Philadelphia, Pennsylvania",3/30/2015,46,18,86
+"Philadelphia, Pennsylvania",3/31/2015,48,21,81
+"Philadelphia, Pennsylvania",4/1/2015,45,14,81
+"Philadelphia, Pennsylvania",4/2/2015,52,25,84
+"Philadelphia, Pennsylvania",4/3/2015,60,27,87
+"Philadelphia, Pennsylvania",4/4/2015,53,25,80
+"Philadelphia, Pennsylvania",4/5/2015,53,22,81
+"Philadelphia, Pennsylvania",4/6/2015,57,24,87
+"Philadelphia, Pennsylvania",4/7/2015,57,19,90
+"Philadelphia, Pennsylvania",4/8/2015,42,23,90
+"Philadelphia, Pennsylvania",4/9/2015,41,26,84
+"Philadelphia, Pennsylvania",4/10/2015,49,22,89
+"Philadelphia, Pennsylvania",4/11/2015,55,28,84
+"Philadelphia, Pennsylvania",4/12/2015,53,18,92
+"Philadelphia, Pennsylvania",4/13/2015,60,26,89
+"Philadelphia, Pennsylvania",4/14/2015,58,24,91
+"Philadelphia, Pennsylvania",4/15/2015,59,27,88
+"Philadelphia, Pennsylvania",4/16/2015,61,27,90
+"Philadelphia, Pennsylvania",4/17/2015,65,27,95
+"Philadelphia, Pennsylvania",4/18/2015,68,25,94
+"Philadelphia, Pennsylvania",4/19/2015,58,20,91
+"Philadelphia, Pennsylvania",4/20/2015,63,27,92
+"Philadelphia, Pennsylvania",4/21/2015,59,27,89
+"Philadelphia, Pennsylvania",4/22/2015,60,30,90
+"Philadelphia, Pennsylvania",4/23/2015,48,33,91
+"Philadelphia, Pennsylvania",4/24/2015,48,33,86
+"Philadelphia, Pennsylvania",4/25/2015,48,33,92
+"Philadelphia, Pennsylvania",4/26/2015,55,35,93
+"Philadelphia, Pennsylvania",4/27/2015,54,36,93
+"Philadelphia, Pennsylvania",4/28/2015,61,34,90
+"Philadelphia, Pennsylvania",4/29/2015,64,29,90
+"Philadelphia, Pennsylvania",4/30/2015,61,34,91
+"Philadelphia, Pennsylvania",5/1/2015,57,34,90
+"Philadelphia, Pennsylvania",5/2/2015,61,35,89
+"Philadelphia, Pennsylvania",5/3/2015,65,35,90
+"Philadelphia, Pennsylvania",5/4/2015,70,35,91
+"Philadelphia, Pennsylvania",5/5/2015,74,33,90
+"Philadelphia, Pennsylvania",5/6/2015,67,36,90
+"Philadelphia, Pennsylvania",5/7/2015,69,35,94
+"Philadelphia, Pennsylvania",5/8/2015,69,37,93
+"Philadelphia, Pennsylvania",5/9/2015,70,33,93
+"Philadelphia, Pennsylvania",5/10/2015,76,33,93
+"Philadelphia, Pennsylvania",5/11/2015,77,28,93
+"Philadelphia, Pennsylvania",5/12/2015,77,37,91
+"Philadelphia, Pennsylvania",5/13/2015,63,37,92
+"Philadelphia, Pennsylvania",5/14/2015,61,40,92
+"Philadelphia, Pennsylvania",5/15/2015,65,39,93
+"Philadelphia, Pennsylvania",5/16/2015,73,40,90
+"Philadelphia, Pennsylvania",5/17/2015,76,37,92
+"Philadelphia, Pennsylvania",5/18/2015,74,41,94
+"Philadelphia, Pennsylvania",5/19/2015,72,41,96
+"Philadelphia, Pennsylvania",5/20/2015,67,43,94
+"Philadelphia, Pennsylvania",5/21/2015,55,41,95
+"Philadelphia, Pennsylvania",5/22/2015,65,43,96
+"Philadelphia, Pennsylvania",5/23/2015,61,41,96
+"Philadelphia, Pennsylvania",5/24/2015,67,40,90
+"Philadelphia, Pennsylvania",5/25/2015,75,40,96
+"Philadelphia, Pennsylvania",5/26/2015,77,43,96
+"Philadelphia, Pennsylvania",5/27/2015,80,42,95
+"Philadelphia, Pennsylvania",5/28/2015,80,41,94
+"Philadelphia, Pennsylvania",5/29/2015,77,42,95
+"Philadelphia, Pennsylvania",5/30/2015,78,41,97
+"Philadelphia, Pennsylvania",5/31/2015,81,42,97
+"Philadelphia, Pennsylvania",6/1/2015,67,44,97
+"Philadelphia, Pennsylvania",6/2/2015,56,46,98
+"Philadelphia, Pennsylvania",6/3/2015,63,48,97
+"Philadelphia, Pennsylvania",6/4/2015,64,47,98
+"Philadelphia, Pennsylvania",6/5/2015,66,48,100
+"Philadelphia, Pennsylvania",6/6/2015,73,45,100
+"Philadelphia, Pennsylvania",6/7/2015,68,47,98
+"Philadelphia, Pennsylvania",6/8/2015,75,44,97
+"Philadelphia, Pennsylvania",6/9/2015,78,44,99
+"Philadelphia, Pennsylvania",6/10/2015,76,47,98
+"Philadelphia, Pennsylvania",6/11/2015,81,44,95
+"Philadelphia, Pennsylvania",6/12/2015,85,48,95
+"Philadelphia, Pennsylvania",6/13/2015,83,50,95
+"Philadelphia, Pennsylvania",6/14/2015,81,48,96
+"Philadelphia, Pennsylvania",6/15/2015,82,47,100
+"Philadelphia, Pennsylvania",6/16/2015,83,49,100
+"Philadelphia, Pennsylvania",6/17/2015,78,44,98
+"Philadelphia, Pennsylvania",6/18/2015,70,48,96
+"Philadelphia, Pennsylvania",6/19/2015,79,53,100
+"Philadelphia, Pennsylvania",6/20/2015,79,51,98
+"Philadelphia, Pennsylvania",6/21/2015,82,48,99
+"Philadelphia, Pennsylvania",6/22/2015,82,48,100
+"Philadelphia, Pennsylvania",6/23/2015,83,47,97
+"Philadelphia, Pennsylvania",6/24/2015,77,52,99
+"Philadelphia, Pennsylvania",6/25/2015,76,52,98
+"Philadelphia, Pennsylvania",6/26/2015,76,51,100
+"Philadelphia, Pennsylvania",6/27/2015,67,50,97
+"Philadelphia, Pennsylvania",6/28/2015,73,54,97
+"Philadelphia, Pennsylvania",6/29/2015,72,52,102
+"Philadelphia, Pennsylvania",6/30/2015,77,52,100
+"Pheonix, Arizona",7/1/2014,98,65,115
+"Pheonix, Arizona",7/2/2014,98,65,118
+"Pheonix, Arizona",7/3/2014,94,64,117
+"Pheonix, Arizona",7/4/2014,90,63,118
+"Pheonix, Arizona",7/5/2014,94,63,116
+"Pheonix, Arizona",7/6/2014,95,65,116
+"Pheonix, Arizona",7/7/2014,98,66,115
+"Pheonix, Arizona",7/8/2014,96,67,115
+"Pheonix, Arizona",7/9/2014,92,66,116
+"Pheonix, Arizona",7/10/2014,96,67,115
+"Pheonix, Arizona",7/11/2014,98,68,118
+"Pheonix, Arizona",7/12/2014,99,69,115
+"Pheonix, Arizona",7/13/2014,95,66,114
+"Pheonix, Arizona",7/14/2014,92,68,116
+"Pheonix, Arizona",7/15/2014,95,66,117
+"Pheonix, Arizona",7/16/2014,96,68,118
+"Pheonix, Arizona",7/17/2014,96,65,116
+"Pheonix, Arizona",7/18/2014,94,68,115
+"Pheonix, Arizona",7/19/2014,96,68,116
+"Pheonix, Arizona",7/20/2014,96,67,114
+"Pheonix, Arizona",7/21/2014,96,65,118
+"Pheonix, Arizona",7/22/2014,101,66,116
+"Pheonix, Arizona",7/23/2014,104,69,114
+"Pheonix, Arizona",7/24/2014,105,68,116
+"Pheonix, Arizona",7/25/2014,98,67,115
+"Pheonix, Arizona",7/26/2014,96,65,116
+"Pheonix, Arizona",7/27/2014,94,65,118
+"Pheonix, Arizona",7/28/2014,96,66,121
+"Pheonix, Arizona",7/29/2014,101,68,115
+"Pheonix, Arizona",7/30/2014,102,66,115
+"Pheonix, Arizona",7/31/2014,98,70,115
+"Pheonix, Arizona",8/1/2014,90,68,116
+"Pheonix, Arizona",8/2/2014,90,70,113
+"Pheonix, Arizona",8/3/2014,92,66,114
+"Pheonix, Arizona",8/4/2014,92,68,116
+"Pheonix, Arizona",8/5/2014,94,69,114
+"Pheonix, Arizona",8/6/2014,96,68,114
+"Pheonix, Arizona",8/7/2014,94,66,112
+"Pheonix, Arizona",8/8/2014,95,67,116
+"Pheonix, Arizona",8/9/2014,94,70,114
+"Pheonix, Arizona",8/10/2014,94,68,116
+"Pheonix, Arizona",8/11/2014,98,65,113
+"Pheonix, Arizona",8/12/2014,88,64,115
+"Pheonix, Arizona",8/13/2014,84,69,115
+"Pheonix, Arizona",8/14/2014,93,69,113
+"Pheonix, Arizona",8/15/2014,94,66,112
+"Pheonix, Arizona",8/16/2014,97,64,113
+"Pheonix, Arizona",8/17/2014,99,64,114
+"Pheonix, Arizona",8/18/2014,91,62,112
+"Pheonix, Arizona",8/19/2014,83,63,113
+"Pheonix, Arizona",8/20/2014,87,58,112
+"Pheonix, Arizona",8/21/2014,81,62,110
+"Pheonix, Arizona",8/22/2014,83,65,113
+"Pheonix, Arizona",8/23/2014,87,61,114
+"Pheonix, Arizona",8/24/2014,91,61,115
+"Pheonix, Arizona",8/25/2014,92,65,113
+"Pheonix, Arizona",8/26/2014,90,65,117
+"Pheonix, Arizona",8/27/2014,93,64,113
+"Pheonix, Arizona",8/28/2014,95,64,113
+"Pheonix, Arizona",8/29/2014,96,64,113
+"Pheonix, Arizona",8/30/2014,97,64,113
+"Pheonix, Arizona",8/31/2014,96,62,113
+"Pheonix, Arizona",9/1/2014,95,63,116
+"Pheonix, Arizona",9/2/2014,96,64,112
+"Pheonix, Arizona",9/3/2014,96,64,112
+"Pheonix, Arizona",9/4/2014,95,60,112
+"Pheonix, Arizona",9/5/2014,91,61,113
+"Pheonix, Arizona",9/6/2014,96,63,111
+"Pheonix, Arizona",9/7/2014,94,61,111
+"Pheonix, Arizona",9/8/2014,81,62,110
+"Pheonix, Arizona",9/9/2014,86,61,110
+"Pheonix, Arizona",9/10/2014,88,59,111
+"Pheonix, Arizona",9/11/2014,90,58,112
+"Pheonix, Arizona",9/12/2014,91,58,110
+"Pheonix, Arizona",9/13/2014,92,55,109
+"Pheonix, Arizona",9/14/2014,92,58,112
+"Pheonix, Arizona",9/15/2014,96,53,110
+"Pheonix, Arizona",9/16/2014,86,56,109
+"Pheonix, Arizona",9/17/2014,84,56,109
+"Pheonix, Arizona",9/18/2014,86,58,109
+"Pheonix, Arizona",9/19/2014,90,54,111
+"Pheonix, Arizona",9/20/2014,90,47,107
+"Pheonix, Arizona",9/21/2014,90,47,107
+"Pheonix, Arizona",9/22/2014,91,47,109
+"Pheonix, Arizona",9/23/2014,90,54,108
+"Pheonix, Arizona",9/24/2014,91,55,108
+"Pheonix, Arizona",9/25/2014,92,49,108
+"Pheonix, Arizona",9/26/2014,92,50,108
+"Pheonix, Arizona",9/27/2014,82,51,107
+"Pheonix, Arizona",9/28/2014,79,50,108
+"Pheonix, Arizona",9/29/2014,78,52,107
+"Pheonix, Arizona",9/30/2014,78,49,107
+"Pheonix, Arizona",10/1/2014,79,49,107
+"Pheonix, Arizona",10/2/2014,81,49,107
+"Pheonix, Arizona",10/3/2014,83,49,105
+"Pheonix, Arizona",10/4/2014,84,46,103
+"Pheonix, Arizona",10/5/2014,83,46,104
+"Pheonix, Arizona",10/6/2014,82,46,105
+"Pheonix, Arizona",10/7/2014,81,44,104
+"Pheonix, Arizona",10/8/2014,76,47,104
+"Pheonix, Arizona",10/9/2014,77,48,103
+"Pheonix, Arizona",10/10/2014,79,44,105
+"Pheonix, Arizona",10/11/2014,81,45,102
+"Pheonix, Arizona",10/12/2014,82,44,103
+"Pheonix, Arizona",10/13/2014,78,48,101
+"Pheonix, Arizona",10/14/2014,80,43,100
+"Pheonix, Arizona",10/15/2014,80,41,103
+"Pheonix, Arizona",10/16/2014,80,40,101
+"Pheonix, Arizona",10/17/2014,80,42,102
+"Pheonix, Arizona",10/18/2014,79,43,103
+"Pheonix, Arizona",10/19/2014,82,40,101
+"Pheonix, Arizona",10/20/2014,78,40,103
+"Pheonix, Arizona",10/21/2014,80,39,103
+"Pheonix, Arizona",10/22/2014,80,37,102
+"Pheonix, Arizona",10/23/2014,81,37,100
+"Pheonix, Arizona",10/24/2014,82,41,96
+"Pheonix, Arizona",10/25/2014,83,40,96
+"Pheonix, Arizona",10/26/2014,80,42,98
+"Pheonix, Arizona",10/27/2014,80,39,98
+"Pheonix, Arizona",10/28/2014,77,41,97
+"Pheonix, Arizona",10/29/2014,78,40,95
+"Pheonix, Arizona",10/30/2014,79,34,94
+"Pheonix, Arizona",10/31/2014,81,36,96
+"Pheonix, Arizona",11/1/2014,76,37,96
+"Pheonix, Arizona",11/2/2014,67,34,96
+"Pheonix, Arizona",11/3/2014,64,36,96
+"Pheonix, Arizona",11/4/2014,67,32,95
+"Pheonix, Arizona",11/5/2014,73,32,93
+"Pheonix, Arizona",11/6/2014,73,34,94
+"Pheonix, Arizona",11/7/2014,72,34,92
+"Pheonix, Arizona",11/8/2014,74,32,91
+"Pheonix, Arizona",11/9/2014,74,31,88
+"Pheonix, Arizona",11/10/2014,72,33,91
+"Pheonix, Arizona",11/11/2014,71,35,91
+"Pheonix, Arizona",11/12/2014,70,33,93
+"Pheonix, Arizona",11/13/2014,71,31,91
+"Pheonix, Arizona",11/14/2014,67,28,91
+"Pheonix, Arizona",11/15/2014,67,33,90
+"Pheonix, Arizona",11/16/2014,62,32,89
+"Pheonix, Arizona",11/17/2014,59,32,87
+"Pheonix, Arizona",11/18/2014,61,31,88
+"Pheonix, Arizona",11/19/2014,62,30,88
+"Pheonix, Arizona",11/20/2014,61,31,89
+"Pheonix, Arizona",11/21/2014,63,30,88
+"Pheonix, Arizona",11/22/2014,59,30,89
+"Pheonix, Arizona",11/23/2014,61,27,87
+"Pheonix, Arizona",11/24/2014,57,28,88
+"Pheonix, Arizona",11/25/2014,58,32,88
+"Pheonix, Arizona",11/26/2014,59,32,88
+"Pheonix, Arizona",11/27/2014,67,31,87
+"Pheonix, Arizona",11/28/2014,68,32,86
+"Pheonix, Arizona",11/29/2014,66,29,85
+"Pheonix, Arizona",11/30/2014,67,30,84
+"Pheonix, Arizona",12/1/2014,62,31,83
+"Pheonix, Arizona",12/2/2014,62,30,81
+"Pheonix, Arizona",12/3/2014,68,30,81
+"Pheonix, Arizona",12/4/2014,64,28,83
+"Pheonix, Arizona",12/5/2014,65,25,82
+"Pheonix, Arizona",12/6/2014,64,27,83
+"Pheonix, Arizona",12/7/2014,64,27,83
+"Pheonix, Arizona",12/8/2014,66,24,84
+"Pheonix, Arizona",12/9/2014,66,24,84
+"Pheonix, Arizona",12/10/2014,66,29,87
+"Pheonix, Arizona",12/11/2014,66,26,81
+"Pheonix, Arizona",12/12/2014,68,28,79
+"Pheonix, Arizona",12/13/2014,59,26,82
+"Pheonix, Arizona",12/14/2014,55,24,78
+"Pheonix, Arizona",12/15/2014,55,26,79
+"Pheonix, Arizona",12/16/2014,57,28,86
+"Pheonix, Arizona",12/17/2014,56,28,82
+"Pheonix, Arizona",12/18/2014,56,29,79
+"Pheonix, Arizona",12/19/2014,55,25,79
+"Pheonix, Arizona",12/20/2014,56,24,78
+"Pheonix, Arizona",12/21/2014,56,27,77
+"Pheonix, Arizona",12/22/2014,57,23,79
+"Pheonix, Arizona",12/23/2014,58,26,79
+"Pheonix, Arizona",12/24/2014,55,25,81
+"Pheonix, Arizona",12/25/2014,55,27,78
+"Pheonix, Arizona",12/26/2014,48,22,78
+"Pheonix, Arizona",12/27/2014,48,24,82
+"Pheonix, Arizona",12/28/2014,48,24,78
+"Pheonix, Arizona",12/29/2014,49,26,85
+"Pheonix, Arizona",12/30/2014,50,23,81
+"Pheonix, Arizona",12/31/2014,43,22,79
+"Pheonix, Arizona",1/1/2015,41,24,81
+"Pheonix, Arizona",1/2/2015,43,23,81
+"Pheonix, Arizona",1/3/2015,44,25,79
+"Pheonix, Arizona",1/4/2015,50,23,83
+"Pheonix, Arizona",1/5/2015,57,23,80
+"Pheonix, Arizona",1/6/2015,62,17,81
+"Pheonix, Arizona",1/7/2015,64,16,81
+"Pheonix, Arizona",1/8/2015,63,19,81
+"Pheonix, Arizona",1/9/2015,63,24,84
+"Pheonix, Arizona",1/10/2015,60,25,84
+"Pheonix, Arizona",1/11/2015,63,20,83
+"Pheonix, Arizona",1/12/2015,62,22,80
+"Pheonix, Arizona",1/13/2015,57,20,79
+"Pheonix, Arizona",1/14/2015,57,22,81
+"Pheonix, Arizona",1/15/2015,60,23,81
+"Pheonix, Arizona",1/16/2015,62,22,83
+"Pheonix, Arizona",1/17/2015,60,26,83
+"Pheonix, Arizona",1/18/2015,62,27,80
+"Pheonix, Arizona",1/19/2015,63,27,88
+"Pheonix, Arizona",1/20/2015,62,22,84
+"Pheonix, Arizona",1/21/2015,64,24,81
+"Pheonix, Arizona",1/22/2015,57,21,81
+"Pheonix, Arizona",1/23/2015,54,24,81
+"Pheonix, Arizona",1/24/2015,64,24,80
+"Pheonix, Arizona",1/25/2015,63,23,83
+"Pheonix, Arizona",1/26/2015,62,26,81
+"Pheonix, Arizona",1/27/2015,64,26,82
+"Pheonix, Arizona",1/28/2015,64,30,83
+"Pheonix, Arizona",1/29/2015,65,27,83
+"Pheonix, Arizona",1/30/2015,58,28,82
+"Pheonix, Arizona",1/31/2015,57,27,86
+"Pheonix, Arizona",2/1/2015,60,28,83
+"Pheonix, Arizona",2/2/2015,61,29,82
+"Pheonix, Arizona",2/3/2015,63,28,86
+"Pheonix, Arizona",2/4/2015,65,27,85
+"Pheonix, Arizona",2/5/2015,67,28,87
+"Pheonix, Arizona",2/6/2015,69,28,87
+"Pheonix, Arizona",2/7/2015,67,24,89
+"Pheonix, Arizona",2/8/2015,69,24,86
+"Pheonix, Arizona",2/9/2015,69,28,84
+"Pheonix, Arizona",2/10/2015,70,28,87
+"Pheonix, Arizona",2/11/2015,68,26,83
+"Pheonix, Arizona",2/12/2015,68,28,84
+"Pheonix, Arizona",2/13/2015,68,27,88
+"Pheonix, Arizona",2/14/2015,69,28,85
+"Pheonix, Arizona",2/15/2015,71,26,86
+"Pheonix, Arizona",2/16/2015,67,28,84
+"Pheonix, Arizona",2/17/2015,66,26,88
+"Pheonix, Arizona",2/18/2015,65,29,86
+"Pheonix, Arizona",2/19/2015,66,29,88
+"Pheonix, Arizona",2/20/2015,67,27,87
+"Pheonix, Arizona",2/21/2015,67,29,86
+"Pheonix, Arizona",2/22/2015,64,26,87
+"Pheonix, Arizona",2/23/2015,65,29,89
+"Pheonix, Arizona",2/24/2015,59,29,91
+"Pheonix, Arizona",2/25/2015,60,29,92
+"Pheonix, Arizona",2/26/2015,64,33,91
+"Pheonix, Arizona",2/27/2015,64,28,92
+"Pheonix, Arizona",2/28/2015,65,30,89
+"Pheonix, Arizona",3/1/2015,69,31,89
+"Pheonix, Arizona",3/2/2015,59,30,90
+"Pheonix, Arizona",3/3/2015,56,28,91
+"Pheonix, Arizona",3/4/2015,59,25,88
+"Pheonix, Arizona",3/5/2015,61,31,93
+"Pheonix, Arizona",3/6/2015,67,34,92
+"Pheonix, Arizona",3/7/2015,69,34,91
+"Pheonix, Arizona",3/8/2015,69,32,92
+"Pheonix, Arizona",3/9/2015,70,29,94
+"Pheonix, Arizona",3/10/2015,73,34,95
+"Pheonix, Arizona",3/11/2015,73,33,94
+"Pheonix, Arizona",3/12/2015,77,34,94
+"Pheonix, Arizona",3/13/2015,74,32,92
+"Pheonix, Arizona",3/14/2015,76,33,95
+"Pheonix, Arizona",3/15/2015,76,31,92
+"Pheonix, Arizona",3/16/2015,78,34,99
+"Pheonix, Arizona",3/17/2015,78,31,99
+"Pheonix, Arizona",3/18/2015,72,36,94
+"Pheonix, Arizona",3/19/2015,65,34,92
+"Pheonix, Arizona",3/20/2015,71,35,95
+"Pheonix, Arizona",3/21/2015,73,35,97
+"Pheonix, Arizona",3/22/2015,75,32,94
+"Pheonix, Arizona",3/23/2015,75,31,93
+"Pheonix, Arizona",3/24/2015,73,36,94
+"Pheonix, Arizona",3/25/2015,75,34,93
+"Pheonix, Arizona",3/26/2015,77,35,100
+"Pheonix, Arizona",3/27/2015,79,33,98
+"Pheonix, Arizona",3/28/2015,80,34,95
+"Pheonix, Arizona",3/29/2015,81,36,97
+"Pheonix, Arizona",3/30/2015,83,38,97
+"Pheonix, Arizona",3/31/2015,82,32,95
+"Pheonix, Arizona",4/1/2015,79,37,100
+"Pheonix, Arizona",4/2/2015,76,37,98
+"Pheonix, Arizona",4/3/2015,73,38,97
+"Pheonix, Arizona",4/4/2015,76,39,98
+"Pheonix, Arizona",4/5/2015,75,37,98
+"Pheonix, Arizona",4/6/2015,74,38,102
+"Pheonix, Arizona",4/7/2015,71,38,104
+"Pheonix, Arizona",4/8/2015,70,39,104
+"Pheonix, Arizona",4/9/2015,69,40,102
+"Pheonix, Arizona",4/10/2015,72,35,100
+"Pheonix, Arizona",4/11/2015,73,39,98
+"Pheonix, Arizona",4/12/2015,76,40,99
+"Pheonix, Arizona",4/13/2015,77,39,99
+"Pheonix, Arizona",4/14/2015,81,40,103
+"Pheonix, Arizona",4/15/2015,75,40,101
+"Pheonix, Arizona",4/16/2015,66,40,101
+"Pheonix, Arizona",4/17/2015,69,38,100
+"Pheonix, Arizona",4/18/2015,75,38,100
+"Pheonix, Arizona",4/19/2015,77,37,103
+"Pheonix, Arizona",4/20/2015,79,38,105
+"Pheonix, Arizona",4/21/2015,78,42,103
+"Pheonix, Arizona",4/22/2015,77,39,105
+"Pheonix, Arizona",4/23/2015,73,40,103
+"Pheonix, Arizona",4/24/2015,70,41,99
+"Pheonix, Arizona",4/25/2015,69,41,102
+"Pheonix, Arizona",4/26/2015,65,42,101
+"Pheonix, Arizona",4/27/2015,72,45,104
+"Pheonix, Arizona",4/28/2015,81,45,104
+"Pheonix, Arizona",4/29/2015,84,43,105
+"Pheonix, Arizona",4/30/2015,85,39,102
+"Pheonix, Arizona",5/1/2015,86,42,103
+"Pheonix, Arizona",5/2/2015,85,40,107
+"Pheonix, Arizona",5/3/2015,86,39,109
+"Pheonix, Arizona",5/4/2015,75,45,106
+"Pheonix, Arizona",5/5/2015,77,45,105
+"Pheonix, Arizona",5/6/2015,80,44,105
+"Pheonix, Arizona",5/7/2015,76,45,108
+"Pheonix, Arizona",5/8/2015,68,40,110
+"Pheonix, Arizona",5/9/2015,67,45,108
+"Pheonix, Arizona",5/10/2015,75,46,111
+"Pheonix, Arizona",5/11/2015,82,43,110
+"Pheonix, Arizona",5/12/2015,81,48,109
+"Pheonix, Arizona",5/13/2015,80,48,108
+"Pheonix, Arizona",5/14/2015,79,50,107
+"Pheonix, Arizona",5/15/2015,67,50,107
+"Pheonix, Arizona",5/16/2015,66,49,106
+"Pheonix, Arizona",5/17/2015,75,49,108
+"Pheonix, Arizona",5/18/2015,78,44,107
+"Pheonix, Arizona",5/19/2015,76,48,110
+"Pheonix, Arizona",5/20/2015,80,49,108
+"Pheonix, Arizona",5/21/2015,82,48,109
+"Pheonix, Arizona",5/22/2015,74,48,109
+"Pheonix, Arizona",5/23/2015,74,49,109
+"Pheonix, Arizona",5/24/2015,76,52,109
+"Pheonix, Arizona",5/25/2015,80,48,108
+"Pheonix, Arizona",5/26/2015,84,48,112
+"Pheonix, Arizona",5/27/2015,85,48,111
+"Pheonix, Arizona",5/28/2015,85,53,113
+"Pheonix, Arizona",5/29/2015,88,50,112
+"Pheonix, Arizona",5/30/2015,90,51,114
+"Pheonix, Arizona",5/31/2015,93,54,109
+"Pheonix, Arizona",6/1/2015,92,50,111
+"Pheonix, Arizona",6/2/2015,90,53,110
+"Pheonix, Arizona",6/3/2015,88,51,112
+"Pheonix, Arizona",6/4/2015,85,49,113
+"Pheonix, Arizona",6/5/2015,81,55,112
+"Pheonix, Arizona",6/6/2015,85,58,110
+"Pheonix, Arizona",6/7/2015,86,56,115
+"Pheonix, Arizona",6/8/2015,92,55,115
+"Pheonix, Arizona",6/9/2015,89,54,114
+"Pheonix, Arizona",6/10/2015,88,55,111
+"Pheonix, Arizona",6/11/2015,91,55,114
+"Pheonix, Arizona",6/12/2015,91,59,112
+"Pheonix, Arizona",6/13/2015,93,59,114
+"Pheonix, Arizona",6/14/2015,95,56,115
+"Pheonix, Arizona",6/15/2015,99,54,115
+"Pheonix, Arizona",6/16/2015,99,54,115
+"Pheonix, Arizona",6/17/2015,100,54,114
+"Pheonix, Arizona",6/18/2015,101,54,115
+"Pheonix, Arizona",6/19/2015,100,61,115
+"Pheonix, Arizona",6/20/2015,96,61,115
+"Pheonix, Arizona",6/21/2015,99,57,115
+"Pheonix, Arizona",6/22/2015,97,56,116
+"Pheonix, Arizona",6/23/2015,99,61,116
+"Pheonix, Arizona",6/24/2015,100,62,118
+"Pheonix, Arizona",6/25/2015,100,60,120
+"Pheonix, Arizona",6/26/2015,98,62,122
+"Pheonix, Arizona",6/27/2015,99,55,118
+"Pheonix, Arizona",6/28/2015,99,59,118
+"Pheonix, Arizona",6/29/2015,98,59,119
+"Pheonix, Arizona",6/30/2015,96,64,115
