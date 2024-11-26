@@ -1,18 +1,26 @@
-# JunnaPortfolio
+# Welcome to My GitHub Portfolio  
 
-## Welcome to my portfolio!
-This repository is a showcase of my technical projects, reflecting my passion for solving complex problems using data-driven approaches and innovative solutions.
+Hello! This repository is a showcase of my technical projects, reflecting my passion for solving complex problems using data-driven approaches and innovative solutions.  
 
-### What You’ll Find Here
-#### Projects Across Diverse Domains
-<b>Algorithm Audits:<b> Explore how I assessed Instagram’s algorithm for harmful content regulation using machine learning models and achieved high precision and accuracy.
-E-Commerce Analytics: Discover my work on building enterprise databases and conducting in-depth OLAP analyses to extract insights for strategic business decisions.
-Predictive Modeling: Check out advanced machine learning models applied to datasets with over a million rows, optimized for performance and accuracy.
-University Ranking Analysis: Dive into the analysis of key factors impacting university rankings with data visualization and regression techniques.
+## 🚀 What You’ll Find Here  
 
-#### Skills Highlighted in Projects
-Proficiency in SQL, Python, and tools like Tableau for data analysis and visualization.
-Strong understanding of ETL processes, machine learning, and predictive modeling techniques.
-Effective use of APIs and libraries like NLTK and EasyOCR for data extraction and processing.
+### **📂 Projects Across Diverse Domains**  
+- **Algorithm Audits**  
+  Explored Instagram's algorithm for harmful content regulation, leveraging machine learning models and achieving high precision and accuracy.  
 
+- **E-Commerce Analytics**  
+  Designed an enterprise database for Nike’s business data, performing ETL process and OLAP analysis to extract insights and support strategic decisions.  
+
+- **Predictive Modeling**  
+  Applied advanced machine learning models to analyze datasets with over 1M rows, focusing on performance optimization and accuracy improvement.  
+
+- **University Ranking Analysis**  
+  Investigated trends and key factors impacting university rankings, visualizing data insights and optimizing predictive models.  
+
+### **💡 Skills Highlighted in Projects**  
+- Proficiency in **SQL**, **Python**, and visualization tools like **Tableau**.  
+- Expertise in **ETL processes**, **machine learning**, and **predictive modeling techniques**.  
+- Effective use of APIs and libraries like **NLTK** and **EasyOCR** for data extraction and processing.  
+
+## 📫 Let’s Connect  
 I aim to continuously learn and grow by working on impactful projects that combine technical expertise with creativity. Feel free to explore, provide feedback, or reach out if you’d like to collaborate!
